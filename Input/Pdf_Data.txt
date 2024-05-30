@@ -1,0 +1,2647 @@
+THE HOME DEPOT
+Enhanced Inspection Requirement
+2455 PACES FERRY ROAD
+ATLANTA, GEORGIA 30339-4024
+
+REPORT NO.: EIR-SKU# 1006878798
+SKU# 1006878798/USA&YOW 1007494276/Display MODEL # YG204D-BN EIR VER. : 001
+SUPPLIER: AIR COOL INDUSTRIAL SUB-CLASS: 27-20-30
+FACTORY NAME: YOUNGO LIMITED
+FACTORY ADDRESS: THE LUO QUN ADMINISTRATIVE DISTRICT, CHEN JIANG, HUIZHOU, GUANGDONG , 516229 , CHINA
+PRODUCTDESCRIPTION: HAWKINS III 44 IN. LED BRUSHED NICKEL CEILING FAN WITH LIGHT
+SCAR AVAILABLE N/A SCAR CREATED DATE: N/A
+
+This product requirement contains the following documents:
+1. CTC/CTQ
+2. General Requirements
+3. Critical Components
+4. Process Requirements
+5. Reliability Requirements
+6. Revision history
+
+Prepared by: Cynthia Ou
+Date: Jan 26,2022
+Reviewed by: Strong Meng
+Date: Jan 26,2022
+Approved by: TL Ho
+Date: Jan 26,2022
+UL Verification Services (Guangzhou) Co., Ltd.
+Building A1, 1F & 2F, Nansha Science and Technology Innovation Center ,
+No. 25, South Huanshi Avenue, Nansha District, Guangzhou 511458,
+China
+T: +86 20 28667188/ F: +86 20 83486605
+
+Form Owner: THD QA - Issue Date: 04/01/2019 - Version #: 3
+Proprietary & Confidential   1 of 18
+The Home Depot Company Information
+1. TOP Critical To Customer (CTC)/Critical To Quality (CTQ) Issues:
+Issue# Issue Description
+1 Motor doesn’t work
+2 Noise
+3 Light doesn’t work
+4 Parts damage
+5 Missing Parts
+6 Glass broken
+
+2. General requirement
+Incoming material requirement:
+
+-WI is available and workable for controlling the components requirements.
+
+-Equipment is validated and within due date.
+
+-Proper intendance is required (IQC’s operation, IQC’s capability, inspection method, WI, etc.)
+
+-IQC is familiar with WI and skilled in operation for controlling point.
+
+-Test record and report is kept well for tracking.
+
+-CAPA is issued to supplier for situation of failure result and CAPA is well followed and settled per quality system of manufactory.
+
+- A tightened sampling plan is used for the next inspection on the last failure incoming material per quality system of manufactory.
+
+-For situation of failure result but component is urgent in use 100% inspection need be conducted per quality system of manufactory.
+
+Form Owner: THD QA - Issue Date: 04/01/2019 - Version #: 3
+Proprietary & Confidential 2 of 18
+The Home Depot Company Information
+
+Process requirement:
+
+-WI is available and workable for controlling the process .
+
+-Equipment is validated and within due date.
+
+-IPQC regular check for the controlled process and keep record for tracking
+
+-Proper intendance is required. (Worker’s operation, equipment setting, efc.)
+
+-Worker is familiar with WI and skilled in operation and be capable of self-inspection
+
+-Factory should set up a program to control defective goods.(defective good identification and isolation, handling ways and track)
+
+Reliability requirement:
+
+-WI is available and workable
+
+-Equipment is validated and within due date and can satisfy the capability of testing.
+
+-Proper intendance is required.
+
+-Test record and report is kept well
+
+-Test sample is properly marked and kept.
+
+-Factory need set up a plan to evaluate product’s reliability.
+
+-Factory need set up a process of defective product including analysis, corrective and preventive action.
+
+Form Owner: THD QA - Issue Date: 04/01/2019 - Version #: 3
+Proprietary & Confidential 3 of 18
+The Home Depot Company Information
+
+3. CRITICAL COMPONENT (Focused on Incoming Warehouse or IQC)
+No. CTC / Result
+序 CTQ/ RTV Component Factory Action Inspector Action Findings
+号 关键 相关部件 工厂控制措施 验货员现场目击、核实、验证 C NC N/A
+检查点
+3.1 Missing Polystyrene Re-design, each kind of component will be *.1 Whether factory have
+parts placed in individual cavity process to control the key
+point.
+工厂是否有流程控制这些关键
+点.
+
+*.2 How factory implement it
+with record proof (automation
+or poka yoke).
+工厂是如何执行它并留存记
+录,是否使用自动化或防呆措
+施
+
+*.3 If any variation, how
+factory make disposition with
+traceability.
+如果检查发现异常，工厂如何
+处置，并考虑物料的追溯性
+3.2 Glass Glass shade Incoming glass shall be fully inspected for *.1 Whether factory have
+broken  appearance to ensure no damage, and the process to control the key
+weight and thickness of glass shall be point.
+measured to supervise the supplier's process 工厂是否有流程控制这些关键
+control 点.
+
+*.2 How factory implement it
+with record proof (automation
+or poka yoke).
+工厂是如何执行它并留存记
+录,是否使用自动化或防呆措
+施
+
+*.3 If any variation, how
+factory make disposition with
+traceability.
+如果检查发现异常，工厂如何
+处置，并考虑物料的追溯性
+Form Owner: THD QA - Issue Date: 04/01/2019 - Version #: 3
+Proprietary & Confidential 4 of 18
+The Home Depot Company Information
+
+------ End of This Section ------
+
+Form Owner: THD QA - Issue Date: 04/01/2019 - Version #: 3
+Proprietary & Confidential 5 of 18
+The Home Depot Company Information
+
+4. PROCESS REQUIREMENTS
+CTC / Result
+No. CTQ/ Process Factory Action Inspector Action
+序 RTV 相关制程 工厂控制措施 验货员现场目击、核实、验证 C NC N/A Findings
+号 关键
+检查点
+4.1 Motor Motor - Individually stored in blister packs *.1 Whether factory have
+doesn’t stator process to control the key point.
+work transfers
+and 工厂是否有流程控制这些关键点.
+storage
+*.2 How factory implement it with
+record proof (automation or
+poka yoke).
+
+工厂是如何执行它并留存记录,是
+
+- Wrapped to reduce dust collection while in 否使用自动化或防呆措施
+inventory
+*.3 If any variation, how factory
+make disposition with
+traceability.
+
+如果检查发现异常，工厂如何处
+置，并考虑物料的追溯性
+
+Form Owner: THD QA - Issue Date: 04/01/2019 - Version #: 3
+Proprietary & Confidential 6 of 18
+The Home Depot Company Information
+
+4.2 Motor Motor The upgraded coil machine now has a *.1 Whether factory have
+doesn’t stator standard tension as programed to process to control the key point.
+work winding eliminate any variations in the winding
+process 工厂是否有流程控制这些关键点.
+
+*.2 How factory implement it with
+record proof (automation or
+poka yoke).
+
+工厂是如何执行它并留存记录,是
+否使用自动化或防呆措施
+
+*.3 If any variation, how factory
+make disposition with
+traceability.
+
+如果检查发现异常，工厂如何处
+置，并考虑物料的追溯性
+4.3 -Motor Motor 100% inspection is done for all motor with *.1 Whether factory have
+doesn’t function new machine  process to control the key point.
+work testing
+工厂是否有流程控制这些关键点.
+
+*.2 How factory implement it with
+record proof (automation or
+poka yoke).
+
+工厂是如何执行它并留存记录,是
+否使用自动化或防呆措施
+
+*.3 If any variation, how factory
+make disposition with
+traceability.
+
+如果检查发现异常，工厂如何处
+置，并考虑物料的追溯性
+
+Form Owner: THD QA - Issue Date: 04/01/2019 - Version #: 3
+Proprietary & Confidential 7 of 18
+The Home Depot Company Information
+
+4.4 Noise Noise 100% noise check manually  *.1 Whether factory have
+check  process to control the key point.
+
+工厂是否有流程控制这些关键点.
+
+*.2 How factory implement it with
+record proof (automation or
+poka yoke).
+
+工厂是如何执行它并留存记录,是
+否使用自动化或防呆措施
+
+*.3 If any variation, how factory
+make disposition with
+traceability.
+
+如果检查发现异常，工厂如何处
+置，并考虑物料的追溯性
+4.5 Fan Air- Control the air pressure not less than 5 kgf *.1 Whether factory have
+doesn’t pressure process to control the key point.
+work control
+工厂是否有流程控制这些关键点.
+
+*.2 How factory implement it with
+record proof (automation or
+poka yoke).
+
+工厂是如何执行它并留存记录,是
+否使用自动化或防呆措施
+
+*.3 If any variation, how factory
+make disposition with
+traceability.
+
+如果检查发现异常，工厂如何处
+置，并考虑物料的追溯性
+
+Form Owner: THD QA - Issue Date: 04/01/2019 - Version #: 3
+Proprietary & Confidential 8 of 18
+The Home Depot Company Information
+
+4.6 Noise  Screw The screw air-gun is calibrated torque to *.1 Whether factory have
+driver ensure screws being tightened per hour process to control the key point.
+calibration
+工厂是否有流程控制这些关键点.
+
+*.2 How factory implement it with
+record proof (automation or
+poka yoke).
+
+工厂是如何执行它并留存记录,是
+否使用自动化或防呆措施
+
+*.3 If any variation, how factory
+make disposition with
+traceability.
+
+如果检查发现异常，工厂如何处
+置，并考虑物料的追溯性
+4.7 -Motor Wire Pull back check terminals for positioning *.1 Whether factory have
+does not connection process to control the key point.
+work check
+工厂是否有流程控制这些关键点.
+-Light
+does not *.2 How factory implement it with
+work record proof (automation or
+poka yoke).
+
+工厂是如何执行它并留存记录,是
+否使用自动化或防呆措施
+
+Use the testing equipment to check wire
+connection and plug instead of by visual
+*.3 If any variation, how factory
+make disposition with
+traceability.
+
+check  如果检查发现异常，工厂如何处
+置，并考虑物料的追溯性
+
+Form Owner: THD QA - Issue Date: 04/01/2019 - Version #: 3
+Proprietary & Confidential 9 of 18
+The Home Depot Company Information
+
+4.8 Light Switch Light switch is pulled 3 times for ON/OFF *.1 Whether factory have
+doesn’t function cycle function test to check the process to control the key point.
+work  check after functionality
+assembling   工厂是否有流程控制这些关键点.
+Check the appearance and if there is any
+damage *.2 How factory implement it with
+record proof (automation or
+poka yoke).
+
+工厂是如何执行它并留存记录,是
+否使用自动化或防呆措施
+
+*.3 If any variation, how factory
+make disposition with
+traceability.
+
+如果检查发现异常，工厂如何处
+置，并考虑物料的追溯性
+4.9 Motor Plug 1. Verify the crimping tool before *.1 Whether factory have
+doesn’t crimping  production. process to control the key point.
+work 2. Pull force 10kg-f check per hour
+during production. 工厂是否有流程控制这些关键点.
+Light
+doesn’t *.2 How factory implement it with
+work record proof (automation or
+poka yoke).
+
+Form Owner: THD QA - Issue Date: 04/01/2019 - Version #: 3
+Proprietary & Confidential 10 of 18
+The Home Depot Company Information
+
+工厂是如何执行它并留存记录,是
+否使用自动化或防呆措施
+
+*.3 If any variation, how factory
+make disposition with
+traceability.
+
+如果检查发现异常，工厂如何处
+置，并考虑物料的追溯性
+
+4.10 Missing Packing  Auto packing machine *.1 Whether factory have
+parts process to control the key point.
+
+工厂是否有流程控制这些关键点.
+
+*.2 How factory implement it with
+record proof (automation or
+poka yoke).
+
+工厂是如何执行它并留存记录,是
+否使用自动化或防呆措施
+
+*.3 If any variation, how factory
+make disposition with
+traceability.
+
+如果检查发现异常，工厂如何处
+置，并考虑物料的追溯性
+
+4.11 Missing PQC Adding PQC “check stamps” on the side of *.1 Whether factory have
+Parts checking every cavity, every single part must have its process to control the key point.
+own “check stamp” to pass QC before
+packing with polystyrene 工厂是否有流程控制这些关键点.
+
+Form Owner: THD QA - Issue Date: 04/01/2019 - Version #: 3
+Proprietary & Confidential 11 of 18
+The Home Depot Company Information
+
+*.2 How factory implement it with
+record proof (automation or
+poka yoke).
+
+工厂是如何执行它并留存记录,是
+否使用自动化或防呆措施
+
+*.3 If any variation, how factory
+make disposition with
+traceability.
+
+如果检查发现异常，工厂如何处
+置，并考虑物料的追溯性
+
+------ End of This Section ------
+
+Form Owner: THD QA - Issue Date: 04/01/2019 - Version #: 3
+Proprietary & Confidential 12 of 18
+The Home Depot Company Information
+
+5. RELIABILITY REQUIREMENTS
+No. Reliability Applicable Testing item Factory Action Inspector Action Result Findings
+Part C NC N/A
+5.1 Customer Switch  Switch/Pull chain - Testing Procedure: 1. Whether
+usage cycling test The switches and/or pull chains shall factory have
+function properly after 7500 cycles (1 process to
+(Only apply to cycle= on/off).   control the key
+ceiling fan with - Sampling: point.
+switch/pull chain) Randomly draw 10 pieces finished 2. How factory
+products every 6 months or there is implement it
+order and record with ID label. with record
+- Frequency: proof
+Data check record every cycle, check 3. If any variation,
+the pull switch function. how factory
+- Judgment: make
+After test, there shall be no mechanical disposition with
+and functional defect. traceability.
+
+5.2 Customer Finished Life Cycle of - Testing Procedure: 1. Whether
+usage product ceiling fan /ceiling The sample shall be installed per the factory have
+fan with light kit manufacturer’s instructions. process to
+120Vac : Cycle 120 times at high speed control the key
+(1 cycle = on for 1.5 hour/off for 0.5 point.
+hour).  2. How factory
+- Sampling: implement it
+Randomly draw 2 pieces finished with record
+products every 6 months or there is proof
+order and record with ID label 3. If any variation,
+- Frequency: how factory
+1. 4 hours visible check and record. make
+2. Record failure time disposition with
+3. Measure luminance and Efficacy at traceability.
+start and finish of test
+4. Measure max fan speed  at start and
+finish of test
+- Judgment:
+Ceiling fan
+1. Operate fan normally to verify that
+the unit:
+2. Does not loosen from the
+mounting/ceiling
+Form Owner: THD QA - Issue Date: 04/01/2019 - Version #: 3
+Proprietary & Confidential 13 of 18
+The Home Depot Company Information
+
+3. Blades are still secured to the motor
+housing
+4. Blades do not have excess wobble
+5. Has no significant increase in noise
+6. The fan speed maintains should not
+less than 10% that of at starting
+Light kit
+1. After test, there shall be no
+mechanical and functional defect
+2. During and after the test, the unit
+shall be operated properly.
+3. Loose, melting or deformation of any
+parts shall not occur
+4. Smoke or fog shall not be observed.
+Bad smell and burnout shall not be
+found
+5. The outlook of the sample shall not
+significantly change.
+6. There is no flickering
+7. The lumen maintains should not less
+than 10% that of at starting
+5.3 Customer LED Environmental test - Testing Procedure: 1. Whether
+usage bulb/CFL ( only apply  to Step 1: On/Off test factory have
+ceiling fan 10s on/10s off,total test for 2200cycle process to
+provided with led  control the key
+or CFL bulb ) Step 2: Thermal impact test (life test)  point.
+Each (20)°C and 85°C 1H, 16 cycles, 2. How factory
+temperature change rate should more implement it
+than 1°C /Minuets with record
+proof
+At rated voltage input, the sample shall 3. If any variation,
+be installed per the instruction manual how factory
+and  at maximum wattage  light on for make
+total 48 hours disposition with
+- Sampling  traceability.
+Randomly draw 5 pieces light kit or
+bulbs every 6 months or there is order
+and record with ID label
+- Frequency:
+1. 4 hours visible check and record.
+2. Record failure time
+3. Measure luminance and Efficacy at
+start and finish of test
+- Judgment:
+Form Owner: THD QA - Issue Date: 04/01/2019 - Version #: 3
+Proprietary & Confidential 14 of 18
+The Home Depot Company Information
+
+1. During and after the test, the unit
+shall be operated properly.
+2. Loose, melting or deformation of any
+parts shall not occur
+3. Smoke or fog shall not be observed.
+Bad smell and burnout shall not be
+found
+4. The outlook of the sample shall not
+significantly change.
+5. There is no flickering
+6. The lumen maintains should not less
+than 10% that of at starting
+5.4 Environmental Motor  Motor high Test procedure: 1. Whether
+Condition temperature test  At Ambient temperature 40℃, factory have
+Assembly the ceiling fan completed ,  process to
+Input rated power, then lock the motor  control the key
+with high speed and light kit max point.
+wattage 240hours. 2. How factory
+- Sampling  implement it
+Randomly draw 1 pieces of each with record
+motor size every 6 months  proof
+- Frequency: 3. If any variation,
+1. 4 hours visible check and record. how factory
+2. Record failure time make
+- Judgment: disposition with
+1. Operate fan normally to verify that traceability.
+the unit
+2. The ceiling fan can pass the high pot
+test
+5.5 Customer Packaging  Packaging Drop - Testing Procedure: 1. Whether
+usage test The retailer box should be10 drops (1 factory have
+corner, 3 edges and 6 faces) per ISTA process to
+standards.  control the key
+For instore items conduct ISTA-1A point.
+standard, YOW and dot.com items 2. How factory
+conduct ISTA-2A standard. The drop implement it
+height is determined by the weight of with record
+the box, details as following table. proof
+3. If any variation,
+- Frequency: how factory
+randomly draw 3 cartons every 6 make
+months or there is order and record with disposition with
+ID label traceability.
+Form Owner: THD QA - Issue Date: 04/01/2019 - Version #: 3
+Proprietary & Confidential 15 of 18
+The Home Depot Company Information
+
+- Judgment:
+After test, the sample shall show no
+damages or deformation. Functions
+shall be maintained
+
+ISTA 1A:
+
+ISTA 2A:
+
+5.7 Customer Blade bracket  Static Load for Blade Test procedure: 1. Whether
+usage Bracket UL 507, 9ed. Cls. 71.3 factory have
+As a result of loading (20 lbs for the fan process to
+less than 45” / 35 lbs for the fan 45” or control the key
+greater) for 1 min., the bracket shall point.
+have no cracks as determined by visual 2. How factory
+inspection with a 4X magnifying lens. implement it
+- Sampling  with record
+Randomly draw 5  pieces finish proof
+product   every 6 months or there is 3. If any variation,
+order and record with ID label how factory
+- Judgment: make
+No  cracks as  disposition with
+traceability.
+Form Owner: THD QA - Issue Date: 04/01/2019 - Version #: 3
+Proprietary & Confidential 16 of 18
+The Home Depot Company Information
+
+------ End of This Section ------
+
+Form Owner: THD QA - Issue Date: 04/01/2019 - Version #: 3
+Proprietary & Confidential 17 of 18
+The Home Depot Company Information
+
+6. REVISION HISTORY
+
+DATE
+Jan 26,2022
+Apr 06,2022
+REVISION
+V00:Draft
+V01:Initial release
+REVISED BY
+Cynthia Ou
+Cynthia Ou
+APPROVED BY
+Strong Meng
+Strong Meng
+
+Form Owner: THD QA - Issue Date: 04/01/2019 - Version #: 3
+Proprietary & Confidential 18 of 18
+The Home Depot Company Information
+
+THE HOME DEPOT
+Inspection Requirement
+2455 PACES FERRY ROAD
+ATLANTA, GEORGIA 30339-4024
+
+REPORT NO.: IR-14027122-3a-V02
+
+SKU# 1006878798/ MODEL#: YG204D-BN DEPT. #: D27L COE # 7
+USA&YOW
+100749427
+6/Display
+SUPPLIER AIR COOL INDUSTRIAL Supplier #: 11289/USA
+NAME: 17441/YOW
+
+FACTORY YOUNGO LIMITED Factory #: 2000408
+NAME:
+FACTORY ADDRESS: THE LUO QUN ADMINISTRATIVE DISTRICT, CHEN JIANG, HUIZHOU,
+GUANGDONG , 516229 , CHINA
+
+PRODUCT DESCRIPTION: HAWKINS III 44 IN. LED BRUSHED NICKEL CEILING FAN WITH LIGHT
+
+IMPORTANT: The product photos are not intended as the color reference.
+
+This product requirement contains the following documents:
+1. Product Requirements
+2. Packaging Requirements
+3. Product Documentation
+4. Product Photos
+5. Inspection Plan
+6. Defect Classification
+7. Revision History
+
+Prepared by: Cynthia Ou
+Date: Jan 26,2022
+Reviewed by:
+Date: Jan 26,2022
+Approved by: TL Ho
+Date: Jan 26,2022
+UL Verification Services (Guangzhou) Co., Ltd.
+Building A1, 1F & 2F, Nansha Science and Technology
+Innovation Center , No. 25, South Huanshi Avenue, Nansha
+District, Guangzhou 511458, China
+T: +86 20 28667188/ F: +86 20 83486605
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 1 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+1. Product Requirements
+
+Item# Item Qty Style / Feature / Dimension / Tolerance Material
+Finish / Color Measurement
+
+1 Overall --- Fit for “Close to ceiling 12.80''Hx44.00''W  5% ---
+installation” X44.00''D
+Weight --- Product weight 13.42lbs  5% ---
+
+2 Mounting --- --- --- --- ---
+system
+- Mounting 1 With sponge pads at top / Fit for use --- Steel
+Plate 18AWG Green ground wire
+pre-installed, 6”L Min.
+-Mounting 1 18AWG Green ground wire Fit for use --- Steel
+unit pre-installed, 6”L Min.
+
+3 Motor 1 Refer to photo --- --- Steel
+housing
+
+4 Motor 1 Motor type: AC --- --- ---
+Poles: 16
+Capacitive start & speed
+control
+- Stator 1 --- O.D. 130mm  0.5 Silicon
+Thickness: 12mm  0.5 Steel
+- Rotor 1 --- O.D. 152.7mm  1 Aluminum
+ 0.5 & silicon
+I.D.130.8mm steel
+- Bearing 2 Double Seal Ball Bearing, --- --- Steel
+6202Z
+
+5 Blade --- --- --- --- ---
+Mounting
+system
+- Blade 5 Refer to photo Weight Max. Difference Aluminum
+bracket within one set: alloy
+1g
+The distance between  1
+the holes each other:
+25x40mm
+- Blade 5 Ebony walnut and Java 440mmL X139mmW 6 MDF
+OAK / Reversible blades.
+Thickness: 5.0mm  0.5
+Weight Max. Difference
+within one set:
+4g
+- Pitch angle --- --- 13.5 Degree  0.5 Degree ---
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 2 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+Item# Item Qty Style / Feature / Dimension / Tolerance Material
+Finish / Color Measurement
+
+6 Electrical --- --- --- --- ---
+component
+- Reverse 1
+switch
+
+- Capacitor 1
+
+- Speed 1
+control
+switch
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 3 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+-Light switch 1
+
+Item# Item Qty Style / Feature / Dimension / Tolerance Material
+Finish / Color Measurement
+
+7 Light kit --- Refer to photo --- --- ---
+-Lampholder 2 Medium base / cULus --- --- Ceramic
+listed, 660W-250V/Min
+T150°C wire leads
+-Lampshade 1 Refer to photo Dia.270mmx95m  6.4 Plastic
+mH
+-LED Bulb 2 model: 9W -- ---
+11A19060WULND04
+Refer to marking
+-Plug 2 Live wire = male plug with --- --- ---
+female pin inside the plug
+Neutral wire = male plug
+with male pin inside the
+plug
+
+8 Fixture wire 3 UL recognized & CSA 8”L from Min. ---
+certified, AWM 1010, mounting
+18AWG, T105, 300V coupling
+Live of motor - Black (actual wire
+Live of light kit - Blue length, but should
+Neutral of motor and light not less than 6”L
+kit - White from mounting
+surface after
+install)
+
+9 Functional --- Fan On Only --- --- ---
+Performance
+- Speed --- Hi 182 RPM - 10% ---
+Med 132 RPM - 10%
+Low 80 RPM - 10%
+- Power --- Hi 54.43W +10% ---
+Med 27.19W +10%
+Low 10.75W +10%
+- Input --- Hi 0.45A +10% ---
+current Med 0.33A +10%
+Low 0.21A +10%
+Temperature --- Temperature rise on motor 75K Max. ---
+rise windin / By resistance
+method
+- Vibration / --- None Noticeable --- --- ---
+Wobble
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 4 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+- Noise --- None Noticeable --- --- ---
+
+Item# Item Qty Style / Feature / Dimension / Tolerance Material
+Finish / Color Measurement
+
+10 Performance --- --- --- ---
+- Lumen flux --- --- 800 lm -9.6% ---
+- Color --- --- 3000K +/-8.1% ---
+Temperature
+-Power --- --- 9W +10%+0.5W ---
+consumption
+
+Note: All dimensions are in millimeter unless otherwise specified.
+
+CA ROHS  Bulb
+CA ROHS report # report Issue Bulb type Specification Bulb Model Bulb supplier
+Date
+TUV report Sep 10,2021 LED 9W 11A19060WULND04 Leedarson
+nno.:68.402.21.0513.01 Lighting
+
+Certification Type Certification ID Expiration Date
+
+Safety certification
+The product(Model#) was AC-
+742
+Effect to update new standard or
+effect in one year(NOM)
+
+certificated by UL. The UL file
+No.: E75795
+
+Issued date: 1987-03-23
+
+Pre-Purchase Testing Result
+
+This product must achieve a rating of PPT REPORT NO: RATING:
+“Good”
+under The Home Depot’s Pre- 14027122-3aR02-F PASSED
+Purchase Testing
+Program or “unsatisfactory” but with
+THD’S PPT
+Waiver.
+REMARK: (IF APPLICABLE) -Per THD’s comments, conducted full PPT test.
+-Item 9.1, THD approved printer: MYS
+-Updated Item 1.1~1.4, 12.1
+
+------ End of This Section ------
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 5 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+2. Packaging Requirements
+
+Label Location - Refer to label in the section 3
+Sensormatic Tag Not required
+UPC on Unit Package Each unit (as applicable) should have a clearly legible UPC marking
+UPC: 840059608006
+Country of Origin Made in China
+Importer Name and Refer to artwork
+Address
+Bilingual Requirement Refer to label in the section 3
+for caution and warning
+statements and any
+inserts or instruction
+manual
+Safety Label Refer to label in the section 3
+Instruction Sheet Clear assembly / operating instructions (as applicable) should be identical to those shown
+in Sec 3
+Warranty Card Required.
+Unit Package Refer to artwork
+Package Size (± 5%) 19.53”Wx 13.94”D x 8.70”H
+Package Weight (± 5%) 17.16lbs
+Method Master carton: Single wall
+Case count: 1
+Detail refer to below photos.
+
+Packaging photo 1 Packaging photo 2
+
+Packaging photo 3 Packaging photo 4
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 6 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+Packaging photo 5 Packaging photo 6
+
+Packaging photo 7 Packaging photo 8
+
+Packaging photo 9 Packaging photo 10
+
+Packaging photo 11 Packaging photo 12
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 7 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+Packaging photo 13 Packaging photo 14
+
+Packaging photo 15 BMC
+
+NOTES:
+➢ Other than the specific Packaging Requirement above, for General Packaging Requirement please refer to
+General Packaging Requirement of the Home Depot.
+
+➢ For any changes of marking, printing, parts and /or components, the vendor should inform The Home Depot. The
+changes of parts or components may require re-submitting for evaluation.
+
+➢ Any changes of marking, printing, parts and /or components without informing The Home Depot would be
+counted as a violation of this Product Requirement.
+------ End of This Section ------
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 8 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+3. Product Documentation
+3.1 Instruction manual & Packaging artwork
+
+Refer to attachment
+
+3.2 CARB& EPA certificate
+
+Refer to attachment
+
+Remark: The vendor/factory should provide valid CARB& EPA certificate during inspection and then check as below:
+1) The manufacturer, material type, phase 2 compliance and CARB& EPA certifier of the provided CARB& EPA
+certificate should same as IR.
+2) The inspection date should not exceed the expired day of the provided CARB& EPA certificate. If the CARB& EPA
+certification is expired, factory’s requested to have IR updated via ECN process.
+
+3.3 Shipping mark
+
+Refer to attachment
+
+3.4 Label
+-label was stuck on unit(for ceiling fan)
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 9 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 10 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+FOR USA
+
+FOR YOW
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 11 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+For Disp SKU
+
+------ End of This Section ------
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 12 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+4. Product Photos
+
+1 Overall 2 Unit 3 Mounting plate
+
+4 Mounting plate 5 Blade bracket 6 Blade
+
+7 Housing 8 Housing 9 Lamp shade
+
+10 Lamp shade 11 Light kit 12 Light kit
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 13 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+13 Plug for light kit 14 Socket 15 Internal view
+
+16 Light switch 17 Speed control switch 18 Motor assembly
+
+19 Motor assembly 20 Reverse switch 21 Reverse switch
+
+22 Capacitor 23 Rotor and stator 24 Rotor
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 14 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+25 Stator 26 Bearing 27 LED bulb
+
+28 Pull chain 29 Accessory 30
+
+Nil
+
+IMPORTANT: The product photos are not intended as the color reference
+
+------ End of This Section ------
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 15 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+5. Inspection Plan
+5.1 General Inspection Requirement
+➢ Product :
+
+ Must be without any unsafe defect;
+ Should be free of Cosmetic / Aesthetic defects such as: damaged/broken parts/pieces, scratches,
+cracks, etc.;
+
+ Must conform to the country of destination’s legal regulations;
+
+ The unit should comply with client’s requirement / approved sample (appearance and function);
+
+ Marking(s) / label(s) on unit should be clear and should comply with legal requirements.
+
+➢ Packaging :
+
+ All units will be adequately packaged, and constructed from suitably robust materials, such that it
+arrives to stores in a sellable condition;
+
+ The packaging material can protect the goods from damage during transportation;
+
+ The shipping mark, bar code, label (such as price label), should conform to client’s spec and/or
+approved samples;
+
+ The packaging should comply to client’s requirement / approved sample;
+
+ Text of illustration, instruction, label and warning statement etc. must be clearly printed in user’s
+language;
+
+ The illustration, instruction and claim on the packaging artwork / labels must conform to the
+product appearance and its actual performance;
+
+ The method and material of pallet / crate etc. should be approved by client.
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 16 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+➢ Inspection Standard Adopted:
+
+ Refer to “THD Inspection Sampling Tool”
+
+➢ Sample Size determination:
+
+ The Inspection Level shall refer to Most Updated Switching Rules of The Home Depot.
+ Please Refer to table 5.3 to determine sample size for each audit area
+ Please use “THD Inspection Sampling Tool” to generate the appropriate each SKU sample
+size for every PSI, which includes multiple SKUs combined in one PSI lot.
+ For the inspection plan is Fix sample size, each SKU shall be drawn according to the required
+fix sample quantity which cannot be combined.
+
+➢ Acceptable Quality Level:
+
+ Critical Non-conformity is not allowed
+ AQL 1.0 (or special approved by THD) For Major Non-Conformity
+ AQL 4.0 (or special approved by THD) For Minor Non-Conformity
+
+➢ For checking item that adopt “Fix sample size”, nonconformity is not allowed.
+
+➢ General defect classification:
+
+ Critical Defect
+ Defects which could result in hazardous or unsafe conditions for individuals using or
+maintaining the product as well as defects contravening legal regulations .
+ Major Defect
+ Functional defects reducing the usability or solidity of the product as well as obvious visual
+defects reducing the sales value of the product.
+ Minor Defect
+ Defects that are unlikely to reduce the use of the product, but nevertheless may influence the
+sale.
+
+➢ For random inspection, the following rules are applied:
+ If the same sample has several defects, only the most serious defect is counted.
+ Samples with defect have to be replaced or repaired; In the case of critical defects, the entire
+shipment must be rejected.
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 17 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+5.2 Equipment List
+
+Intertek equipment Factory equipment
+1. 3H pencil 1. Electric strength tester
+2. Tape (3M Model: 600) 2. Power source (variable transformer)
+3. Bar code reader 3. Outlet box
+4. Multimeter 4. Caliper
+5. Tape-measure 5. Hand tools (screw driver, spanner and pliers
+etc.)
+6. Tachometer
+7. Protractor
+8. Power meter
+9. Balance
+10. Pull force tester (for internal wire
+connection check)
+11. Integrating sphere
+*When used equipment is not consistent with the above list , the specific equipment for the same test provided by
+manufactory is suggested to use, except the equipment required by client.
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 18 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+5.1Inspection Checklist
+Item Details Sampling Size
+Code
+
+1 Aesthetics / Appearance Check
+A Appearance of unit ###
+
+2 Functional Check
+A Functional check without blades ###
+
+3 Safety Check
+A Dielectric strength check ###
+B Earth continuity check ###
+C Polarity check ###
+
+4 Data Measurement
+A Physical dimension check (such as overall, lampshade, power cord 1 sample per SKU but not less
+length etc.) than 5 samples for all
+B Weight of blade and Pitch angle 1 sample per SKU but not
+less than 5 sets for all
+C Installation / Assembly check 1 sample per SKU but not
+less than 13 samples for all
+D Power consumption and input current check with blades 1 sample per SKU but not less
+than 13 samples for all
+E Fan speed check 1 sample per SKU but not less
+than 13 samples for all
+F Temperature rise on motor winding by resistance method 1 sample per SKU but not more
+than 5 samples for all
+G Low voltage start up check S3
+H Ceiling fan wobble check 1 sample per SKU
+I Switch cycling 1 sample per SKU
+J Power on check for light kit 1 sample per SKU but not
+less than 5 samples for all
+K Bulb wattage check ###
+L Performance check for bulb(Power consumption, Lumen flux, Color 1 sample per SKU
+Temperature)
+M Pull chain activation force check 1 sample per SKU
+
+5 Internal Check
+A Internal lead wire S3
+B Wire connection S3
+C Components S3
+D Polarity check S3
+
+6 Comparison check 1 sample per SKU
+
+Note:
+- ### Shall Refer to Most Updated Switching Rules of The Home Depot.
+- Special inspection level Shall Refer to the calculated SKU sample size by THD Tools.
+------ End of This Section ------
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 19 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+6 Defect Classification
+
+Item Details Defective Classification
+Code
+Critical Major Minor
+1 Aesthetics / Appearance Check
+A Appearance of unit(note: the judgment of defects that either judge
+major and minor will base on the defects location, size and number. i.e.
+the defects that presented on the main surface that consumer easy to
+observe and the defects can be see from 1m distance, the defect should
+be counted as a major; defects that presented on the inessential position
+and could be seen from 1m distance, the defect should be counted as a
+minor)
+· Live insect/infestation ✓
+· Knives, blades, needles and similar sharp foreign object ✓
+contamination
+· Excessive/unpleasant odour  ✓
+· Warpage, fire check, wavy finish, pits, blisters, pinholes, bubbles,  ✓ ✓
+specks, spots, dirty mark, scratch mark, chipped
+· Missing accessory  ✓
+· Caution or warning label that require is missing or illegible ✓
+· Missing / illegal marking  ✓
+· Poor mechanical connection  ✓
+· Poor printing / molding marking  ✓ ✓
+· Uneven painting with any visual discontinuity / Painting peeled-  ✓ ✓
+off
+· Dent / Scratch / Dirt / Damage / Burr / Mixing color  ✓ ✓
+· Sharp edge or sharp point that may injure person easily ✓
+· Sharp edge or sharp point  ✓ ✓
+· Lead wire damage (live parts not exposed)  ✓
+· Lead wire damage (live parts exposed) ✓
+· Wrong lead wire or not better ✓
+· Thumb screw for glass lampshade was equipped with screw  ✓
+driving slot
+· The blade primary color on A side doesn’t face to customer when  ✓
+open the box (Applied for color box. For brown box, it is not
+applied for this requirement)
+· Switch doesn’t stop in Forward “Summer” condition  ✓
+· DIP switch is not paired at the same initial number ✓
+
+2 Functional Check
+· Abnormal noise (current noise or hamming noise etc) and  ✓ ✓
+vibration
+
+3 Safety Check
+· Dielectric strength (1200Vac, 1second) breakdown ✓
+· Intermittent or failure of earth continuity ✓
+· Wrong polarity ✓
+
+4 Data Measurement
+A Physical dimension is out of the product specification (such as overall, Fail the inspection
+lamp shade, cord length, etc.)
+B Weight of blade and Pitch angle
+· Out of PR Fail the inspection
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 20 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+C Installation / Assembly check
+➢ The fan should be mounted in all mounting means as instructed
+➢ Light kit is requested to be mounted
+➢ Mount the fan on the ceiling and switch it on at all speed settings
+for 2 minutes
+➢ Power on Fan through all the speeds setting for 10 cycles
+· The fan cannot be mounted on the ceiling in anyone of all Fail the inspection
+mounting styles according to the procedure depicted in the
+installation instructions
+· Parts and parts do not match
+· Abnormal noise (current noise or hamming noise etc) and
+vibration
+· Malfunction/Inoperative/Intermittent set
+D Power consumption and input current check with blades
+➢ Power on the ceiling fans at rated input with light off
+➢ Record power consumption and input current after the reading is
+stable
+· Power consumption and input current is out of PR Fail the inspection
+· The input watts to appliance was more than 110% of the marked
+motor rating
+E Fan speed check
+➢ Power on the unit at rated input with light off
+➢ Record rotational speed after the reading is stable
+· Fan speed is out of PR Fail the inspection
+F Temperature rise on motor winding by resistance method
+➢ Power on the ceiling fan at rated input with highest speed setting
+and light-off for 4 hours
+· Temperature rise over 75K Fail the inspection
+G Low voltage start up check
+· Ceiling fan shall not function properly when operated at the lowest  ✓
+speed with an input voltage of 90% rated voltage
+H Ceiling fan wobble check
+➢ After the fan installed on the ceiling, the blade height shall be 7
+feet.
+➢ Install one laser on the bottom of the ceiling fan.
+➢ Record h, H
+➢ Measure X( the range of the laser irradiate to the floor)
+X>(1 +H/h) x 1.5mm Fail the inspection
+
+h: the distance from the ceiling to the laser location.
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 21 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+H: the distance from the laser location to the floor.
+
+7 feet: the distance from the fan blade to the floor.
+X: the range of the laser irradiate to the floor.
+I Switch cycling
+50 cycles (1 cycle= 1full setting).
+· Function properly Fail the inspection
+J Power on check for light kit
+➢ Power on the light kit at rated input for 4 hours with rated light
+bulb installed
+· Electric strength breakdown or other malfunction Fail the inspection
+· Failure of internal check
+K Bulb wattage is out of PR  ✓
+L Performance check for bulb (Power consumption, Lumen flux, Color
+Temperature)
+Only test the integrated LED lighting with lamp shade, but without
+ceiling fan.
+Performance check (Power consumption, Lumen flux, Efficacy, Color
+Temperature, Color Rendering Index (CRI))
+According user manual assembly the lamp, and power on it, after
+30min measure the data
+· Out of PR specified Fail the shipment
+M Pull chain activation force check
+Measure force required to activate pull chain function
+· Greater than 10N Fail the inspection
+
+5 Internal Check
+· Wrong principal component used ✓
+· Damaged / Missing / Rusty / Cracked / broken component or other  ✓ ✓
+defect
+· Poor mechanical connection  ✓
+· Wireway is not free of sharp edge, sharp point or moving parts  ✓
+· Reverse switch terminal is not wrapped with heat shrink tube  ✓
+· Lead wire damaged (Live parts not exposed)  ✓
+· Lead wire damaged (Live parts exposed) ✓
+· Metallic residues inside the sample that cause possible risk of  ✓
+short-circuit
+· All splices and connectors are not to remain secured when 5-lbs of  ✓
+force is applied for 1 second
+· A soldered connection was not mechanically secured before being ✓
+soldered.
+· Stress on the internal connections  ✓
+· Screw shell of lampholder was not connected to the grounded ✓
+conductor of the power supply.
+· A single-pole switch was connected in the neutral grounded ✓
+conductor.
+
+6 Comparison check
+· The mass production need be complied with sealed sample during Fail the shipment
+PPT or PLR
+
+Note: The above described defects are those most commonly found, but not necessarily cover all possible defects.
+And the defective classification is for reference only. The final decision of the defective classification would be
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 22 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+decided by the inspector.
+------ End of This Section -----
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 23 of 24
+The Home Depot Company Information
+REPORT NO.: IR-14027122-3a-V02
+
+7 Revision History
+DATE REVISION REVISED BY APPROVED
+BY
+Jan 26,2022 Draft IR Cynthia Ou Strong Meng
+Apr 06,2022 V01:Initial release Cynthia Ou Strong Meng
+Dotcom SKU# needs to change to HD SKU# per
+ECR-27862.
+Nov 22, 2022 V02:Add display SKU   Jacky Ding   Strong Meng
+
+Form Owner: THD QA - Issue Date: 09/01/2011 - Version #: 5
+Proprietary & Confidential 24 of 24
+The Home Depot Company Information
+Item #1006 878 798
+#1006
+Model #YG204D-BN
+#YG204D-ORB
+
+USE AND CARE GUIDE
+
+HAWKINS III 44 IN. CEILING FAN
+
+Questions, problems, missing parts? Before returning to the store,
+call Hampton Bay Customer Service
+8 a.m. - 7 p.m., EST, Monday-Friday, 9 a.m. - 6 p.m., EST Saturday
+
+1-855-HD-HAMPTON
+HAMPTONBAY.COM
+
+Visual instruction of how to install this fan:
+Visit www.homedepot.com and enter either the Item or Model number to nd
+this fan and click the link of visual instruction in the product overview section.
+
+THANK YOU
+Table of Contents
+
+Table of Contents ..........................................................2 Assembly....................................................................... 7
+
+Safety Information .........................................................2 Operation ......................................................................13
+
+Warranty .........................................................................3 Care and Cleaning .......................................................14
+
+Pre-installation .............................................................. 3 Troubleshooting .......................................................... 14
+
+Installation...................................................................... 6
+
+Safety Information
+
+1.     To reduce the risk of electric shock, ensure electricity has The following responsible party designated in FCC §2.909 is
+been turned off at the circuit breaker or fuse box before responsible for this declaration:
+beginning. Model Number: YG204D-BN, YG204D-ORB
+2.     All wiring must be in accordance with the National Electrical Company Name: TAL INTERNATIONAL CORPORATION
+Code “ANSI/NFPA 70-1999” and local electrical codes.  Company Address: 2919 E. Philadelphia St., Ontario, CA 91761, U.S.A.
+Electrical installation should be performed by a qualied Full Name: James Lai Title: Manager
+licensed electrician. Telephone Number: (909) 923-2888 Fax: (909) 923-8337
+3.     The outlet box and support structure must be securely WARNING: To reduce the risk of electrical shock or re, do
+mounted and capable of reliably supporting a minimum of 35 not use this fan with any solid-state fan speed control device.
+lbs (15.9 kg) or less. Use only UL-listed outlet boxes marked It will permanently damage the electronic circuitry.
+“FOR FAN SUPPORT.”
+4.     The fan must be mounted with a minimum of 7 ft (2.1m) WARNING: To reduce the risk of personal injury, do not
+clearance from the trailing edge of the blades to the oor. bend the blade arms (also referred to as anges), when
+installing the brackets, balancing the blades or cleaning the
+5.     Avoid placing objects in the path of the blades. fan.
+
+6.     To avoid personal injury or damage to the fan and other
+items, be cautious when working around or cleaning the fan. WARNING: Do not insert foreign objects in-between rotating
+fan blades.
+7.     Do not use water or detergents when cleaning the fan or fan
+blades. A dry dust cloth or lightly dampened cloth will be
+suitable for most cleaning. WARNING: To reduce the risk of re, electric shock or
+personal injury, mount the fan to the outlet box marked
+8.     After making electrical connections, spliced conductors acceptable for fan support with the screws provided with the
+should be turned upward and pushed carefully up into the outlet box.
+outlet box. The wires should be spread apart with the
+grounded conductor and the equipment-grounding conductor CAUTION: To reduce the risk of personal injury, use only
+on one side of the outlet box and ungrounded conductor on the screws provided with the outlet box.
+the other side of the outlet box.
+
+9.     All setscrews must be checked and retightened where
+necessary before installation.
+
+READ AND SAVE THESE INSTRUCTIONS
+
+2
+Warranty
+
+The manufacturer warrants the fan motor to be free from defects in workmanship and material present at time of shipment from the
+factory for a period of lifetime after the date of purchase by the original purchaser. The manufacturer warrants the light kit (excluding any
+glass), to be free from defects in workmanship and material at the time of shipment from the factory for a period of three years after the
+date of purchase by the original purchaser. The manufacturers also warrants that all other fan parts, excluding any glass or acrylic blades,
+to be free from defects in workmanship and material at the time of shipment from the factory for a period of one year after the date of
+purchase by the original purchaser. We agree to correct such defects without charge or at our option replace with a comparable or
+superior model if the product is returned. To obtain warranty service, you must present a copy of the receipt as proof of purchase. All
+costs of removing and reinstalling the product are your responsibility. Damage to any part such as by accident, misuse, improper
+installation or by afxing any accessories, is not covered by this warranty. Because of varying climatic conditions this warranty does not
+cover any changes in brass nish, including rusting, pitting, corroding, tarnishing or peeling. Brass nishes of this type give the longest
+useful life when protected from varying weather conditions. A certain amount of “wobble” is normal and should not be considered a
+defect. Servicing performed by unauthorized persons shall render the warranty invalid. There is no other express warranty. We hereby
+disclaim any and all warranties, including but not limited to those of merchantability and tness for a particular purpose to the extent
+permitted by law. The duration of any implied warranty which cannot be disclaimed is limited to the time period as specied in the
+express warranty. Some states do not allow limitation on how long an implied warranty lasts, so the above limitation may not apply to
+you. The retailer shall not be liable for incidental, consequential, or special damages arising out of or in connection with product use or
+performance except as may otherwise be accorded by law. Some states do not allow the exclusion of incidental or consequential
+damages, so the above exclusion or limitation may not apply to you. This warranty gives specic legal rights, and you may also have other
+rights which vary from state to state. This warranty supersedes all prior warranties. Shipping costs for any return of product as part of a
+claim on the warranty must be paid by the customer.
+
+Contact the Customer Service Team at 1-855-HD-HAMPTON or visit www.hamptonbay.com.
+
+Pre-Installation
+
+SPECIFICATIONS
+Fan size Speed Volts Amps Watts RPM CFM N.W. G.W. C.F.
+Low 0.21 10.75 80 1428 6.1 kg 7.7 kg
+44 in. Medium 120 0.33 27.19 132 2245 (13.42 lbs.) (16.99 lbs.) 1.37 cu. ft.
+High 0.45 54.43 182 3055
+
+NOTE: These are approximate measures. They do not
+include amps and wattage used by the light kit.
+
+TOOLS REQUIRED
+
+Phillips Flat blade Adjustable Step Wire Electrical
+screwdriver screwdriver wrench ladder stripper tape
+
+3 HAMPTONBAY.COM
+Please contact 1-855-HD-HAMPTON for further assistance.
+Pre-Installation (continued)
+HARDWARE INCLUDED
+
+NOTE: Hardware not shown to actual size.
+
+AA FF
+JJ
+
+BB GG
+
+CC HH
+
+DD
+II
+
+EE
+
+Part Description Quantity
+AA Plastic wire nut 3
+BB Blade arm screw with lock washer (preassembled) 10
+CC Nut (preassembled) 4
+DD Washer (preassembled) 4
+EE Light kit mounting screw (preassembled) 3
+FF Metal nut (preassembled) 1
+GG Cap (preassembled) 1
+HH Decorative nut (preassembled) 1
+II Pull chain and fob 2
+JJ 9 watt LED bulb 2
+
+4
+Pre-Installation (continued)
+PACKAGE CONTENTS
+
+A
+
+B C
+
+E
+
+D
+
+F
+
+G
+
+Part Description Quantity Part Description Quantity
+A Mounting bracket 1 E Motor housing 1
+B Fan motor assembly 1 F Light kit 1
+C Blade 5 G Plastic shade 1
+D Blade arm 5
+
+5 HAMPTONBAY.COM
+Please contact 1-855-HD-HAMPTON for further assistance.
+Installation
+
+MOUNTING OPTIONS
+
+WARNING: To reduce the risk of re, electric shock, or
+personal injury, mount the fan to an outlet box marked LL
+acceptable for fan support using the screws provided with the
+outlet box. An outlet box commonly used for the support of
+lighting xtures may not be acceptable for fan support and
+may need to be replaced. If in doubt, consult a qualied
+electrician.
+KK
+If your ceiling fan does not have an existing UL-listed mounting
+box, then install one using the following instructions: To hang your fan where there is an existing xture but no ceiling
+□ Disconnect the power by removing the fuses or turning off joist, you may need an installation hanger bar (LL) (not included)
+the circuit breakers. as shown above.
+□      Secure the outlet box (KK) (not included) directly to the
+building structure. Use appropriate fasteners and materials
+(not included). The outlet box and its bracing must be able
+to fully support the weight of the moving fan (at least 35
+lbs.). Do not use a plastic outlet box.
+
+The illustrations below show two different ways to mount the
+outlet box (KK) (not included).
+
+KK
+
+KK
+
+6
+Assembly — Hanging the Fan
+Installing the mounting bracket 2 Hanging the fan to the
+1 to the electrical box mounting bracket
+□     Lift the fan into position by hanging the fan motor
+WARNING: To reduce the risk of re, electric shock or assembly (B) onto the hook from the mounting
+other personal injury, mount the fan only to an outlet box or bracket (A) allowing it to hang freely.
+supporting system marked acceptable for fan support and
+use the mounting screws provided with the outlet box.
+
+□     Attach the mounting bracket (A) to the outlet box (KK)
+(not included) with two screws and washers provided
+with the outlet box (KK). Ensure the mounting bracket
+(A) is tight and secured.
+
+KK
+B
+
+A
+A
+
+7 HAMPTONBAY.COM
+Please contact 1-855-HD-HAMPTON for further assistance.
+Assembly — Hanging the Fan (continued)
+3a Making the electrical connections
+Ground
+WARNING: To avoid possible electrical shock, be sure Hot Neutral conductor
+electricity is turned off at the main fuse box before wiring.
+
+Black White
+WARNING: Check to see that all connections are tight,
+including ground, and that no bare wire is visible at the wire
+nuts (except for the ground wire).
+
+WARNING: To reduce the risk of re or electric shock, do KK
+not use this fan with any solid-state speed control device.
+AA
+
+If you feel you do not have enough electrical wiring knowledge
+or experience, have your fan installed by a licensed
+electrician.
+Blue Black White Green Green
+Follow the steps below to connect the fan to your household
+wiring. Use the plastic wire nuts (AA) with your fan. Secure the
+plastic wire nuts (AA) with electrical tape. Make sure there are
+no loose strands or connections. A
+
+□     Make wire connections as follows, using the wire nuts
+(AA).
+
+From Fan                        To Outlet Box
+Black + Blue Wires ---------- Black Wire (Hot)
+White Wire ------------------- White Wire (Neutral)
+Green Wires* ----------------  Green or Bare Wire (Ground)
+
+* There are two green grounding leads: one from the mounting MM
+bracket (A) and one from the mounting bar (MM).
+
+□    Turn the wire nut connections upward, spreading them
+apart so the green (ground) and white wires will be on
+one side of the outlet box (KK) and the black and blue
+wires will be on the other side. Carefully tuck the
+connections up into the outlet box (KK).
+
+8
+Assembly — Hanging the Fan (optional)
+3b Single Switch Connections 3c Dual Switch Connections
+□     On a single switch the fan and light can be turned on or □     On a dual switch the fan and light can be turned on or off
+off together. Make wire connections as follows, using the separately. Make wire connections as follows, using the
+wire nuts (AA). Wall switch not included. wire nuts (AA). Wall switch not included.
+
+From Fan To Outlet Box
+Black + Blue Wires ---------- Black Wire (Hot)
+White Wire ------------------- White Wire (Neutral)
+Green Wires ----------------- Green or Bare Wire (Ground)
+From Fan To Outlet Box
+Black Wire (for Fan) --------- Black Wire (Hot #1)
+Blue Wire (for Light) --------- Red Wire (Hot#2 but maybe
+be in another color other
+than black, white or green)
+White Wire ------------------- White Wire (Neutral)
+Green Wires ----------------- Green or Bare Wire (Ground)
+
+Ground Ground
+AC IN Neutral conductor AC IN Neutral conductor
+
+White White
+Black
+Black
+Red
+
+KK KK
+
+AA AA
+
+Blue Black White Green Green Blue Black White Green Green
+
+A A
+
+SINGLE SWITCH
+MM
+DUAL SWITCH
+MM
+
+9 HAMPTONBAY.COM
+Please contact 1-855-HD-HAMPTON for further assistance.
+Assembly — Hanging the Fan (continued)
+4 Finishing the fan installation 5 Attaching the motor housing
+to the mounting bracket
+□     Move the fan motor assembly (B) into position over □     Raise the motor housing (E) up against the mounting
+the four mounting bracket studs and secure with the bracket (A). The four supports inside the motor
+provided nuts (CC) and washers (DD). housing (E) should be placed against the four studs
+on the mounting bracket (A). Twist the motor housing
+(E) clockwise until snug.
+A
+A
+
+B
+DD
+CC
+
+B
+
+E
+
+10
+Assembly — Attaching the Fan Blades
+6 Attaching the blades to the
+blade arms
+WARNING: Failure to properly seat the blades (C) on the NN C
+blade arms (D) and engage in the spring locking mechanism
+(OO) could result in the fan blades (C) loosening and possibly D
+falling.
+
+To install the blade to the blade arm:
+□     Hold the blade (C) with hands close to the blade arm
+(D), align the key-slot holes (NN) with the blade arm OO
+posts (OO) and press the blade down rmly. Ensure
+the key-slot holes (NN) are properly seated on the
+blade arm posts (OO).
+□     Firmly slide the blade (C) away from the blade arm (D)
+until the blade (C) engages in the spring locking
+mechanism (PP). Make sure the spring of the spring D
+locking mechanism (PP) is upward and the butt of the
+spring locking mechanism (PP) is against the edge of PP C
+the blade.
+To detach the blade from the blade arm:
+□     Press down the spring locking mechanism (PP) to
+release the blade (C) from the blade arm (D). Slide the
+blade (C) toward the blade arm (D) until the blade (C)
+disengages from the spring locking mechanism (PP).
+Carefully push the blade (C) up to detach from the
+blade arm (D).
+
+7 Fastening the blade B
+assemblies to the motor
+
+WARNING: To reduce the risk of personal injury, do not
+bend the blade arms (D) while installing, balancing the blades RR
+(C), or cleaning the fan. Do not insert foreign objects between
+rotating fan blades (C).
+
+□     Fasten the blade assemblies to the fan motor C
+assembly (B) by lining up the slots of the motor (RR)
+with the tabs on the blade arms (QQ). D
+□     Tighten the two blade arm screws with lock washers BB
+(BB) already installed in the blade arms (D).
+
+□     Repeat this procedure for the remaining blade arms
+(D).
+
+QQ
+
+11 HAMPTONBAY.COM
+Please contact 1-855-HD-HAMPTON for further assistance.
+Assembly — Installing the Light Kit
+
+8 Attaching the light kit to the 9 Installing the light bulbs and the
+switch housing
+plastic shade
+
+CAUTION: Before starting installation, disconnect the
+power by turning off the circuit breaker or removing the fuse
+at the fuse box. Turning power off using the fan switch is not
+sufcient to prevent electric shock.
+CAUTION: Before starting installation, disconnect the
+power by turning off the circuit breaker or removing the fuse
+at the fuse box. Turning power off using the fan switch is not
+sufcient to prevent electric shock.
+
+□     Remove the three light kit mounting screws (EE) from the □     Install two 9 watt LED bulbs (JJ) (included).
+light kit (F) and keep these screws. □     While holding the plastic shade (G), slip the pull chain (UU)
+□     While holding the light kit (F) under your fan motor from the switch housing into the outside hole in the plastic
+assembly (B), snap together the 4-pin wire connection shade (G).
+plugs (SS) and locate two single white and blue wires in □     Feed the pull chain (UU) from the light kit stem (VV)
+the switch housing labeled "FOR LIGHT". Make the through the eyelet on the plastic shade (G).
+polarized plug connections (TT), □     Place the plastic shade (G) over the light kit stem (VV) .
+- White to white     - Blue to black Secure the plastic shade (G) with the metal nut (FF)
+□     Carefully push all wires back into the switch housing. (rubber side on the top).
+Install the light kit (F) onto the switch housing with the □     Fit the cap (GG) onto the light kit stem (VV) and then slip
+three light kit mounting screws (EE) provided. Be sure to the pull chain (UU) through the hole on the side of the cap
+tighten all screws. (GG).
+□     Feed the pull chain (UU) from the light kit stem (VV)
+□     Remove the decorative nut (HH), cap (GG) and the metal through the cap (GG) and the decorative nut (HH), and then
+nut (FF) from the light kit (F). thread the decorative nut (HH) on securely. Do not
+overtighten.
+
+B
+TT EE
+F
+
+SS UU
+F VV
+JJ
+
+G
+
+FF
+
+GG FF
+GG
+HH HH
+
+12
+Operation
+PULL CHAIN OPERATING INSTRUCTIONS
+
+Install two pull chains and fobs (II) onto the pull chains located in the
+switch housing and light kit. Turn on the power and check the operation of
+the fan.
+
+The pull chain controls the fan speed as follows:
+1 pull - High, 2 pulls - Medium, 3 pulls - Low and 4 pulls - Off.
+
+Speed settings for warm or cool weather depend on factors such as the
+room size, ceiling height, numbers of fans, and so on.
+
+To turn the light On or Off, pull the chain that is attached to the light
+kit.
+
+II
+
+REVERSE SWITCH OPERATING INSTRUCTIONS
+
+The reverse switch is located on the surface of the switch housing.
+This switch controls directions: forward (switch down) or reverse
+(switch up).
+
+NOTE: Wait for the fan to stop before reversing the direction
+of the blade rotation.
+
+Reverse
+switch
+
+Warm weather - (Counterclockwise Direction) A downward air ow
+creates a cooling effect. This allows you to set your air conditioner
+on a higher setting without affecting your comfort.
+Cool weather - (Clockwise Direction) An upward air ow moves
+warm air off the ceiling. This allows you to set your heating unit on
+a lower setting without affecting your comfort.
+
+13 HAMPTONBAY.COM
+Please contact 1-855-HD-HAMPTON for further assistance.
+Care and Cleaning
+
+WARNING: Make sure the power is off before cleaning
+your fan.
+
+Do
+Check the support connections, brackets, and blade attachments twice a year. Make sure they are secure. Because of the fan’s
+natural movement, some connections may become loose over time. It is not necessary to remove the fan from the ceiling.
+Clean your fan periodically. Use only a soft brush or lint-free cloth to avoid scratching the nish. The plating is sealed with a lacquer to
+minimize discoloration or tarnishing.
+(Optional) Apply a light coat of furniture polish to the wood blades.
+(Optional) Cover small scratches with a light application of shoe polish.
+
+Do not
+Use water when cleaning. Water could damage the motor, or the wood, or possibly cause an electrical shock.
+Apply oil to your fan or motor. The motor has permanently-lubricated sealed ball bearings.
+
+Troubleshooting
+
+Problem Solution
+The fan will not start. Check the main and branch circuit fuses or breakers.
+Check the line wire connections to the fan and switch wire connections in the switch housing.
+
+Make sure all motor housing screws are snug.
+Make sure the screws that attach the fan blade to the motor hub are tight.
+Make sure the wire nut connections are not rattling against each other or the interior wall of the switch
+housing.
+Allow a 24-hour "breaking-in" period. Most noises associated with a new fan disappear during this time.
+The fan sounds noisy. If using the ceiling light kit, make sure the glassware are secured tight. Check that the light bulb is also
+secure.
+Make sure there is a short distance from the ceiling to the canopy.  It should not touch the ceiling.
+Make sure your ceiling box is secure and that rubber isolator pads are used between the mounting
+bracket and outlet box.
+
+Verify that all blades and blade bracket screws are secure (most fan wobble problems are caused by
+loose parts). Once the fan is properly installed, run the ceiling fan for 10 minutes to let the fan
+self-adjust.
+
+If wobble occurs after running the fan for 10 minutes, verify blade level using the following process:
+
+The fan wobbles.
+- Select a point on the ceiling above the tip of one of the blades, then select any fan blade and measure
+from the center of the selected blade to the point on the ceiling. Rotate the fan until the next blade is
+positioned and repeat the measurement using the same point from the ceiling for every blade.
+Measurement deviations should be within 1/8 in.
+
+- If all deviations are less than 1/8 in. and the fan continues to wobble, please call Customer Service
+(1-855-HD-HAMPTON) to order a complimentary Blade Balancing Kit.
+
+- If deviation is greater than 1/8 in. , please call Customer Service (1-855-HD-HAMPTON) to order
+complimentary replacements of your brackets.
+
+14
+This device complies with part 15 of the FCC Rules. Operation is subject to the following two conditions: (1) This device may not
+cause harmful interference, and (2) this device must accept any interference received, including interference that may cause
+undesired operation.
+WARNING: Changes or modications to this unit not expressly approved by the party responsible for compliance could void the
+user's authority to operate the equipment.
+NOTE: This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to Part 15 of the
+FCC Rules. These limits are designed to provide reasonable protection against harmful interference in a residential installation. This
+equipment generates, uses and can radiate radio frequency energy and, if not installed and used in accordance with the
+instructions, may cause harmful interference to radio communications.
+However, there is no guarantee that interference will not occur in a particular installation. If this equipment does cause harmful
+interference to radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged
+to try to correct the interference by one or more of the following measures:
+- Reorient or relocate the receiving antenna.
+- Increase the separation between the equipment and receiver.
+- Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.
+- Consult the dealer or an experienced radio/TV technician for help.
+
+Questions, problems, missing parts? Before returning to the store,
+call Hampton Bay Customer Service
+8 a.m. - 7 p.m., EST, Monday-Friday, 9 a.m. - 6 p.m., EST Saturday
+
+1-855-HD-HAMPTON
+HAMPTONBAY.COM
+
+Retain this manual for future use.
+Artículo Núm. 1006 878 798
+1006 878 800
+Modelo Núm. YG204D-BN
+YG204D-ORB
+
+GUÍA DE USO Y MANTENIMIENTO
+
+VENTILADOR DE TECHO HAWKINS III, DE 1,12 m
+
+¿Preguntas, problemas o piezas faltantes? Antes de regresar a la tienda, llama al
+Servicio al Cliente de Hampton Bay de lunes a viernes entre
+De lunes a viernes, entre 8:00 a.m. y 7:00 p.m. (Hora Estándar del Este),
+y los sábados de 9:00 a.m. a 6:00 p.m. (Hora Estándar del Este).
+
+1-855-HD-HAMPTON
+HAMPTONBAY.COM
+
+Instrucciones visuales sobre cómo instalar este ventilador:
+Visite www.homedepot.com y escriba el número de artículo o modelo
+para buscar este ventilador, luego haga clic en el enlace de instrucciones
+visuales en la sección de descripción general del producto.
+
+GRACIAS POR TU COMPRA
+Índice
+
+Índice ..............................................................................2
+Información de Seguridad.............................................2
+Garantía ..........................................................................3
+Pre-Instalación .............................................................. 3
+Ensamblado.................................................................. 7
+Funcionamiento ...........................................................13
+Mantenimiento y Limpieza ..........................................14
+Solución de Problemas ...............................................14
+
+Instalación ..................................................................... 6
+
+Información de Seguridad
+
+1.     Para disminuir el riesgo de descarga eléctrica, asegúrate de La siguiente parte responsable designada en FCC §2.909 es
+que la electricidad ha sido apagada en el cortacircuitos o la responsable de esta declaración:
+caja de fusibles antes de comenzar la instalación. Modelo Número: YG204D-BN, YG204D-ORB
+Nombre de empresa: TAL INTERNATIONAL CORPORATION
+2.     Todo el cableado debe cumplir con el Código Nacional de Dirección de la empresa: 2919 E. Philadelphia St., Ontario, CA 91761, U.S.A.
+Electricidad "ANSI/NFPA 70-1999" y con los códigos locales Nombre completo: James Lai Título: Gerente
+de electricidad. La instalación eléctrica debe ser hecha por un Número de teléfono: (909) 923-2888 Fax: (909) 923-8337
+electricista certicado y calicado.
+
+3.     La caja eléctrica y estructura de soporte deben montarse de ADVERTENCIA: Para disminuir el riesgo de incendio o
+forma segura y tener capacidad para sostener de manera descarga eléctrica, no utilices este ventilador con ningún
+conable un mínimo de 35 libras (15,9 kg) o menos. Usa dispositivo de control de velocidad del ventilador de estado
+solamente cajas eléctricas aprobadas por UL marcadas como sólido. Dañará permanentemente el circuito electrónico.
+“PARA SOPORTE DE VENTILADOR”.
+
+4.     El ventilador debe ir montado con un mínimo de 7 pies (2,1m) ADVERTENCIA: Para reducir el riesgo de lesiones
+de separación entre el borde trasero de las aspas y el piso. personales, no dobles los brazos de las aspas (también
+llamados “rebordes”) durante la instalación de los soportes,
+5.     Evita colocar objetos en la trayectoria de las aspas. compensación de las aspas o limpieza del ventilador.
+
+6.     Para evitar lesiones físicas o daños al ventilador y otros
+artículos, ten cuidado al limpiar o trabajar cerca del ADVERTENCIA: No insertes objetos extraños entre las
+ventilador. aspas en funcionamiento.
+7.     No usar agua o detergentes al limpiar el ventilador o las
+aspas. Para la limpieza, será adecuado un paño seco para ADVERTENCIA: Para disminuir el riesgo de incendio,
+quitar el polvo o ligeramente humedecido. descarga eléctrica o lesiones personales, monta el ventilador
+8.     Después de concluir con las conexiones eléctricas, debes sobre la caja eléctrica marcada como “aprobada como
+voltear los conductores empalmados hacia arriba y soporte de ventilador” y usa los tornillos de montaje que
+empujarlos con cuidado hacia dentro de la caja eléctrica. Los vienen con la misma.
+cables deben estar separados, con el cable a tierra y el
+conductor a tierra del equipo hacia uno de los lados de la caja
+eléctrica y el conductor sin conexión a tierra hacia el lado PRECAUCIÓN: Para reducir el riesgo de lesiones físicas,
+opuesto. usa sólo los tornillos incluidos con la caja eléctrica.
+
+9.     Todos los tornillos colocados se deben vericar y ajustar
+donde sea necesario antes de la instalación.
+
+LEA Y MANTENER ESTAS INSTRUCCIONES
+
+2
+Garantía
+
+El fabricante garantiza de por vida, a partir de la fecha en que el comprador original lo adquiere, que el motor del ventilador no presenta
+defectos de fabricación ni de material al momento en que es enviado desde la fábrica. El fabricante garantiza, por un período de tres años
+a partir de la fecha de compra por el comprador original, el kit de luces, sin incluir ningun de vidrio, no presentarán ningún defecto de
+fabricación o de material desde el momento de su salida de la fábrica. El fabricante también garantiza, por el período de un año, a partir de
+la fecha de compra por el comprador original, que las demás piezas del ventilador, sin incluir ninguna aspa de vidrio o acrílico, no
+presen-tarán ningún defecto de fabricación o de material desde el momento de la salida de la fábrica. Acordamos reparar todos los
+defectos del tipo antes mencionado, sin cargo alguno o, a nuestra discreción, reemplazar el producto por un modelo de igual calidad o
+superior si el producto es devuelto. Para obtener un servicio de garantía, debe presentar una copia del recibo como comprobante de
+compra. Todos los costos de retiro y reinstalación del producto son su responsabilidad. Los daños a cualquiera de las piezas como
+resultado de accidentes, uso inadecuado, instalación inadecuada, o debidos a la instalación de cualquier accesorio, no están cubiertos
+bajo esta garantía. Debido a que las condiciones climáticas pueden variar, esta garantía no cubre ningún cambio en el acabado en bronce,
+incluyendo óxido, perforación, corrosión, manchas o descascaramiento. Los acabados en bronce de este tipo tienen una vida útil más
+prolongada cuando se protegen de las condiciones climáticas cambiantes. Es normal cierta “oscilación” y no se considerará una falla.
+Cualquier servicio técnico realizado por personas no autorizadas invalidará la garantía. No hay ninguna otra garantía expresa. Mediante la
+presente, nos eximimos de cualquier garantía, incluyendo pero sin limitarnos a aquellas de comercialización e idoneidad para un n
+particular, de acuerd a lo contemplado por la ley. La duración de cualquier garantía implícita de la cual no se pueda eximir está limitada al
+período de tiempo especicado en la garantía explícita. Algunos estados no permiten limitaciones a la duración de la garantía, por
+consiguiente a limitación anterior puede no aplicarse a su caso. El minorista no será responsable por daños directos, indirectos o
+especiales que resulten o deriven del uso o rendimiento del producto excepto en casos en que lo estipule la ley. Algunos estados no
+permiten la exclusión o limitación de daños directos o indirectos, por lo que la limitación o exclusión anterior podría no aplicarse a su caso.
+Esta garantía le otorga derechos legales especícos y es posible que también tenga otros derechos que varían de un estado a otro. Esta
+garantía sustituye todaslas garantías anteriores. Los costos de envío de cualquier devolución de productos hecha como parte de una
+reclamación de garantía están a cargo del cliente.
+
+Comuníquese con el Equipo de Servicio al Cliente al 1-855-HD-HAMPTON o visite www.hamptonbay.com.
+
+Pre-Instalación
+
+ESPECIFICACIONES
+Tamaño del Velocidad Voltios Amperios Vatios RPM PIES / MIN.3 PESO NETO PESO BRUTO PIES3
+ventilador
+44” Baja 0.21 10.75 80 1428 6.1 kg 7.7 kg
+(1,12 m) Media 120 0.33 27.19 132 2245 (13.42 lbs.) (16.99 lbs.) 1.37 pies3
+Alta 0.45 54.43 182 3055
+
+NOTA: Estas medidas son aproximadas. No incluyen ni el
+amperaje ni el vataje consumido por el kit de luces.
+
+HERRAMIENTAS NECESARIAS
+
+Destornillador Destornillador de Llave Escalera de Pelacables Cinta de
+Phillips Aspa Plana ajustable tijera electricista
+
+3 HAMPTONBAY.COM
+Para obtener asistencia, llama al 1-855-HD-HAMPTON.
+Pre-Installation (continued)
+Pre-Instalación (continuación)
+HERRAJES INCLUIDOS
+
+NOTA: El hardware no se muestra en tamaño real.
+
+AA FF
+JJ
+
+BB GG
+
+CC HH
+
+DD
+II
+
+EE
+
+Pieza Descripción Cantidad
+AA Tuercas de conexión de cables de plástico 3
+BB Tornillo del brazo del aspa con arandela de seguridad (preensamblado) 10
+CC Tuerca (preensamblado) 4
+DD Arandela (preensamblado) 4
+EE Tornillo de kit de luces (preensamblado) 3
+FF Tuerca de metal (preensamblado) 1
+GG Tapa (preensamblado) 1
+HH Tuerca decorativa (preensamblado) 1
+II Interruptore de cadena y llave 2
+JJ Bombilla LED de 9 vatios 2
+
+4
+Pre-Instalación (continuación)
+CONTENIDO DEL PAQUETE
+A
+
+B C
+
+E
+
+D
+
+F
+
+G
+
+Pieza Descripción Cantidad Pieza Descripción Quantity
+Cantidad
+A Soporte de montaje 1 E Cubierta de motor 1
+B Ensamblaje del motor del ventilador 1 F Kit de luces 1
+C Aspa 5 G Pantalla de plástico 1
+D Brazo de aspa 5
+
+5 HAMPTONBAY.COM
+Para obtener asistencia, llama al 1-855-HD-HAMPTON.
+Instalación
+
+OPCIONES DE MONTAJE
+ADVERTENCIA: Para disminuir el riesgo de incendio,
+descarga eléctrica o lesiones personales, monta el ventilador LL
+sobre una caja eléctrica marcada como “aprobada como
+soporte de ventilador” y usa los tornillos de montaje que
+vienen con la misma. Las cajas eléctricas utilizadas
+comúnmente para el soporte de artículos de iluminación
+pueden no servir como soporte de ventilador, y tal vez deban
+reemplazarse. En caso de duda, consulta a un electricista
+calicado. KK
+
+Si tu ventilador de techo no posee una caja de montaje aprobada
+por UL, instala una siguiendo las instrucciones a continuación:
+□ Desconecta la energía retirando los fusibles o apagando los
+cortacircuitos.
+□ Fija la caja eléctrica (KK) (no provistas) directamente a la
+estructura del edicio. Usa sujetadores y materiales (no
+provistas) apropiados. La caja eléctrica y su soporte deben
+sostener completamente el peso en movimiento del
+ventilador (al menos 35 libras). No uses una caja eléctrica
+de plástico.
+Para colgar el ventilador donde ya haya una lámpara pero
+ninguna viga de techo, tal vez necesites una barra de instalación
+colgante (LL) (no provistas) como se muestra arriba.
+
+Las ilustraciones a continuación muestran dos formas diferentes
+de montar la caja eléctrica (KK) (no provistas).
+
+KK
+
+KK
+
+6
+Assembly — Hanging the Fan
+Ensamblado — Cómo Colgar el Ventilador
+Cómo instalar el soporte de 2 Cómo colgar el ventilador en
+1 montaje en la caja eléctrica el soporte de montaje
+ADVERTENCIA: Para disminuir los riesgos de incendio, □     Levanta el ventilador hasta su posición colgando el
+descarga eléctrica o lesiones personales. Monta el ventilador conjunto del motor del ventilador (B) en el gancho del
+sólo sobre una caja eléctrica o sistema de soporte marcado soporte de montaje (A) en el techo para permitir que
+como “aprobada como soporte de ventilador” y usa los cuelgue libremente.
+tornillos de montaje que vienen con la caja eléctrica.
+
+□     Asegure la soporte de montaje (A) a la caja eléctrica
+(KK) (no provistas) con los dos tornillos y las dos
+arandelas que vienen con la caja eléctrica (KK),
+asegurandose que la soporte (A) este apretada y
+segura.
+
+KK B
+
+A A
+
+7 HAMPTONBAY.COM
+Para obtener asistencia, llama al 1-855-HD-HAMPTON.
+Ensamblado — Cómo Colgar el Ventilador (continuación)
+3a Cómo hacer las conexiones
+eléctricas
+Conductor
+ADVERTENCIA:  Para evitar una posible descarga Caliente Neutro a tierra
+eléctrica, asegúrate de que la electricidad esté apagada de la
+caja de fusibles principal antes de realizar el cableado. Negro Blanco
+
+ADVERTENCIA:  Verica que todas las conexiones estén
+bien ajustadas, incluida la conexión a tierra, y que no haya
+ningún cable pelado visible en las tuercas para cable
+(excepto el de tierra). KK
+
+ADVERTENCIA: Para reducir el riesgo de incendio o AA
+descarga eléctrica, no utilices este ventilador con ningún
+dispositivo de control de velocidad de estado sólido.
+
+Si crees que no tienes suciente experiencia o conocimientos
+Azul Negro Blanco Verde Verde
+en cableado eléctrico, contrata a un electricista con licencia
+para que instale el ventilador.
+
+Sigue estos pasos para conectar tu ventilador a tu circuito A
+doméstico. Usa las tuercas de plástico para cable (AA) con tu
+ventilador. Asegura las tuercas de cables (AA) con cinta de
+electricista. Asegúrate de que no existan conexiones o cables
+sueltos.
+
+□     Hacer las conexiones de cables de la siguiente manera,
+usando las tuercas de cable (AA).
+
+Del ventilador            A la caja de eléctrica
+Cables negro + azul ----- Negro alambre (caliente) MM
+Cable blanco ------------- Cable blanco (neutro)
+Cables verde* ------------ Cable verde o desnudo (tierra)
+
+* Hay dos cables de conexión a tierra verdes: uno del soporte de
+montaje (A) y otro del barra de montaje (MM).
+
+□    Gire las conexiones de la tuerca del cable hacia arriba,
+separándolas de modo que el cable verde (tierra) y el
+cable blanco estén en un lado de la caja de eléctrica (KK)
+y el cables negro y azul en el otro lado. Introduzca con
+cuidado las conexiones en la caja de eléctrica (KK).
+
+8
+Ensamblado — Cómo Colgar el Ventilador (opcional)
+3b Conexiones de un solo interruptor 3c Conexiones de interruptor doble
+□     Con un solo interruptor, el ventilador y la luz se pueden □     En un interruptor doble, el ventilador y la luz se pueden
+encender o apagar juntos. Realice las conexiones de encender o apagar por separado. Realice las conexiones de
+cables de la siguiente manera, utilizando las tuercas para cables de la siguiente manera, utilizando las tuercas para
+cables (AA). Interruptor de pared no incluido. cables (AA). Interruptor de pared no incluido.
+
+Del ventilador A la caja de eléctrica
+Cables negro + azul ------ Negro alambre (caliente)
+Cable blanco -------------- Cable blanco (neutro)
+Cables verdes  ------------ Cable verde o desnudo (tierra)
+Conductor
+AC IN Neutro a tierra
+Del ventilador A la caja de eléctrica
+Cable negro (para ventilador) ------ Negro alambre (caliente #1)
+Cable azul (para luz) --------------- Roja alambre (caliente #2
+pero tal vez sea de otro
+color que no sea negro,
+blanco o verde)
+Cable blanco ---------------------- Cable blanco (neutro)
+Cables verdes  -------------------- Cable verde o desnudo
+(tierra)
+
+Conductor
+Blanco AC IN Neutro a tierra
+Negro
+Blanco
+Negro
+Roja
+KK
+
+KK
+
+AA
+AA
+Azul Negro Blanco Verde Verde Azul Negro Blanco Verde Verde
+A A
+
+INTERRUPTORE
+INTERRUPTOR DOBLE
+SENCILLO MM MM
+
+9 HAMPTONBAY.COM
+Para obtener asistencia, llama al 1-855-HD-HAMPTON.
+Ensamblado — Cómo Colgar el Ventilador (continuación)
+
+4 Cómo nalizar la instalación 5 Cómo instalar la carcasa del motor
+del ventilador en el soporte de montaje
+□     Coloque el ventilador (B) en su posicion sobre las □     Levante la carcasa del motor (E) para arriba contra el
+cuatro espigas de montaje y asegurelo con las soporte de montaje (A), las cuatro ayudas dentro de
+tuercas (CC) y arandelas (DD) que vienen con el la carcasa (E) se deben poner contra los cuatro
+ventilador. pernos de la soporte del montaje (A), y girela en
+sentido de las manecillas del reloj hasta que quede
+A rme.
+A
+
+B
+DD
+CC
+
+B
+
+E
+
+10
+Ensamblado — Cómo Montar las Aspas del Ventilador
+
+6 Cómo montar las aspas a los
+brazos de las aspas
+ADVERTENCIA: Si no instalas correctamente las aspas (C) NN C
+en los brazos de estas (D) y activas el mecanismo de cierre
+de los resortes (OO), se pueden aojar las aspas del D
+ventilador (C) y posiblemente se caigan.
+
+Cómo conectar las aspas a los brazos de estas:
+□     Sostén el aspa (C) con ambas manos cerca del brazo
+del aspa (D), alinea los oricios tipo ojo de cerradura
+(NN) con los postes del brazo del aspa (OO) y OO
+presiona el aspa hacia abajo rmemente. Asegúrate
+de que los oricios tipo ojo de cerradura (NN) estén
+correctamente apoyados sobre los postes del brazo
+del aspa (OO).
+□     Desliza el aspa (C) hacia el lado opuesto del brazo del D
+esta (D) con rmeza, hasta que el aspa (C) se acople
+al mecanismo de cierre con resorte (PP). Asegúrate
+de que el resorte del mecanismo de cierre con PP C
+resorte (PP) esté hacia arriba y el tope de este
+mecanismo de cierre (PP) esté apoyado sobre el
+borde del aspa.
+Cómo desconectar el aspa del brazo de esta:
+□     Presiona el mecanismo de cierre con resorte (PP)
+para liberar el aspa (C) del brazo de esta (D). Desliza
+el aspa (C) hacia el brazo del ésta (D) hasta que el
+aspa (C) se desenganche del mecanismo de cierre
+con resorte (PP). Con cuidado, empuja el aspa (C)
+hacia arriba para separarla del brazo de ésta (D).
+
+7 Cómo ajustar los ensamblajes B
+de las aspas al motor
+
+ADVERTENCIA: Para reducir el riesgo de lesiones
+personales, no doblar los brazos del aspa (D) durante la RR
+instalación, compensación de las aspas (C) o limpieza del
+ventilador. No insertes objetos extraños entre las aspas (C)
+en funcionamiento.
+
+□     Aprieta los ensamblajes de aspas al ensamblaje C
+del motor del ventilador (B) alineando las ranuras de D
+las motor (RR) con los pestañas de brazos del aspa
+(QQ).
+BB
+□     Ajusta los dos tornillos del brazo del aspa y las
+arandelas de seguridad (BB) ya instaladas en los
+brazos de las armas (D).
+
+□     Repite este procedimiento con los brazos del aspa
+(D) restantes.
+QQ
+
+11 HAMPTONBAY.COM
+Para obtener asistencia, llama al 1-855-HD-HAMPTON.
+Ensamblado — Cómo Instalar el Kit de Luces
+
+8 Cómo instalar las kit de luces en la 9 Cómo instalar la bombillas y la
+caja del interruptor pantalla de plástico
+
+PRECAUCIÓN: Antes de empezar la instalación, corta el
+suministro de electricidad, apagando el cortacircuitos o
+retirando el fusible en la caja de fusibles. Cortar el suministro
+de electricidad con el interruptor del ventilador no es
+suciente para evitar una descarga eléctrica.
+PRECAUCIÓN: Antes de empezar la instalación, corta el
+suministro de electricidad, apagando el cortacircuitos o
+retirando el fusible en la caja de fusibles. Cortar el suministro
+de electricidad con el interruptor del ventilador no es
+suciente para evitar una descarga eléctrica.
+
+□     Retira los tres tornillos de montaje del kit de luces □     Instala 2 bombillas LED de 9W (JJ) (provistas).
+(EE) del kit de luces (F) y guarda estos tornillos. □     Sosteniendo la pantalla de plástico (G), desliza la cadena
+□     Mientras sostienes el kit de luces (F) debajo del para halar (UU) del a caja del interruptor en el oricio
+ensamblaje del motor del ventilador (B). monte el exterior de la pantalla de plástico (G).
+enchufe de conexión de 4-pin (SS) de los alambres y □     Pasa la cadena para halar (UU) del vástago del kit de luces
+localiza dos cables simples blanco y azul en la caja (VV) a través del oricio en la pantalla de plástico (G).
+del interruptor etiquetada como “PARA LUZ”. Cómo
+hacer las conexiones de enchufe (TT) polarizado, □     Coloca la pantalla de plástico (G) sobre el vástago del kit
+- Blanco con Blanco   - Azul con negro de luces (VV). Asegura la pantalla de plástico (G) con la
+□     Vuelve a colocar con cuidado todos los cables dentro tuerca de metal (FF) (lado con hule hacia arriva).
+de la caja del interruptor. Une el soporte del kit de □     Encaja la tapa (GG) en el vástago del kit de luces (VV), y
+luces (F) alineando de la caja del interruptor con los luego desliza la cadena para halar (UU) a través del oricio
+tres oricios de los tornillos del kit de luces (EE), en el lado de la tapa (GG).
+Asegúrese de apretar todos los tornillos.
+□     Retira la tuerca decorativa (HH), la tapa (GG) y la □     Pasa la cadena para halar (UU) del vástago del kit de
+tuerca de metal (FF) del kit de luces (F). lucesa (VV) través de la tapa (GG) y la tuerca decorativa
+(HH), y luego enrosca latuerca decorativa (HH) de manera
+segura. No aprietes demasiado.
+
+B
+TT EE
+F
+
+SS
+UU
+F VV
+JJ
+
+G
+
+FF
+
+GG FF
+GG
+HH HH
+
+12
+Funcionamiento
+
+INSTRUCCIONES DE FUNCIONAMIENTO DEL
+INTERRUPTOR DE CADENA
+
+Instala dos interruptores de cadena y colgantes (II) en los
+interruptores de cadena ubicados en la caja del interruptor y el kit
+de luces. Enciende la electricidad y verica el funcionamiento del
+ventilador.
+
+El interruptor de cadena controla las velocidades del ventilador de
+la siguiente manera: 1 vez: Alto, 2 veces: Medio, 3: Bajo y 4:
+Apagado.
+
+Las conguraciones de velocidad para clima cálido o frío
+dependen de factores como tamaño de la habitación, altura del
+techo y cantidad de ventiladores.
+
+Para encender y apagar el kit de luces, tira la cadena que está
+unida al kit de luces. II
+
+INSTRUCCIONES DE FUNCIONAMIENTO DEL
+INTERRUPTOR DE REVERSA
+El interruptor de reversa está ubicado en la supercie de la caja
+del interruptor. Este interruptor controla las direcciones: hacia
+adelante (interruptor hacia abajo) o reversa (interruptor hacia
+arriba).
+
+NOTA: Espera a que se detenga el ventilador antes de
+invertir la dirección de giro de las aspas.
+Interruptor de
+Reversa
+
+Clima cálido - (Hacia la izquierda) Un ujo de aire hacia abajo crea
+un efecto refrescante. Esto te permite jar tu aire condicionado a
+una temperatura más alta sin afectar tu comodidad.
+Clima frío - (de izquierda a derecha) Un ujo de aire hacia arriba
+mueve el aire cálido lejos del techo. Esto te permite jar tu unidad
+de calefacción en una conguración más fría sin afectar tu
+comodidad.
+
+13 HAMPTONBAY.COM
+Para obtener asistencia, llama al 1-855-HD-HAMPTON.
+Mantenimiento y Limpieza
+
+ADVERTENCIA: Asegúrese de que la alimentación está
+desconectada antes de limpiar el ventilador.
+
+Hacer
+Revisa las conexiones de soporte, soportes y accesorios de aspas dos veces al año. Verica que estén seguros. Debido al movimiento
+natural del ventilador, algunas conexiones pueden aojarse con el tiempo. No es necesario desmontar el ventilador del techo.
+Limpia tu ventilador con frecuencia. Usa solamente un cepillo suave o un paño sin pelusas para evitar arañar el acabado. El
+revestimiento está sellado con laca para minimizar la decoloración u opacidad.
+(Opcional) Aplica una na capa de pulimento para muebles a la madera de las aspas.
+(Opcional) Cubre los arañazos pequeños con una leve aplicación de lustrador para calzado.
+
+No hacer
+Uses agua al limpiarlo. El agua puede dañar el motor o la madera, o causar descargas eléctricas.
+Apliques lubricador al ventilador o al motor. El motor tiene cojinetes de bola sellados permanentemente lubricados.
+
+Solución de Problemas
+
+Problema Solución
+Verica fusibles o disyuntores principales y secundarios.
+El ventilador no enciende. Verica conexiones de cables en línea al ventilador y conexiones de cables del interruptor en la caja del
+interruptor.
+
+Asegúrate de que los tornillos de la carcasa del motor estén ajustados.
+Asegúrate de que los tornillos que unen el brazo del aspa del ventilador al cuerpo del motor están bien
+ajustados.
+Asegúrate de que las conexiones de tuerca de cable no choquen unas con otras o con la pared interiorde
+la caja del interruptor.
+El ventilador hace ruido. Permite un período de 24 horas de “adaptación”. La mayoría de los ruidos asociados con un nuevo
+ventilador desaparecen en ese período.
+Si usas el kit de luces de techo, asegúrate de que los tornillos sujetadores estén bien ajustados. Verica
+que la bombilla también esté bien asegurada.
+Asegúrate de que la cubierta esté a corta distancia del techo. No debería tocar el techo.
+Asegúrate de que tu caja del techo esté bien segura y las almohadillas aislantes de goma se hayan
+instalado entre el soporte de montaje y la caja eléctrica.
+□  Verica que todas las aspas y los tornillos de los soportes de aspas estén seguros (la mayoría de los
+problemas de oscilación del ventilador se deben a piezas sueltas). Una vez que el ventilador ha sido
+instalado correctamente, enciéndelo durante 10 minutos para que se autoajuste.
+Si luego de 10 minutos de estar encendido el ventilador aún oscilara, verica el nivel de las aspas
+utilizando el siguiente procedimiento:
+-   Ubica un punto en el techo sobre la punta de una de las aspas, luego elige cualquier aspa del
+El Ventilador oscila. ventilador y mide desde el centro del aspa seleccionada hasta el punto en el techo. Rota el ventilador
+hasta que la siguiente aspa esté posicionada y repite la medición utilizando el mismo punto en el techo
+para cada aspa.  Las desviaciones de la medición deben estar dentro de 3.2 mm.
+-   Si todas las desviaciones son menores a 3.2 mm y el ventilador continúa oscilando, llama al servicio
+al cliente al (1-855-HD-HAMPTON) para ordenar sin costo alguno un kit de compensación de aspas.
+-   Si la desviación es mayor a 3.2 mm, llama al servicio al cliente al (1-855-HD-HAMPTON) para ordenar
+sin costo alguno los reemplazos de los soportes.
+
+14
+Este equipo cumple con lo establecido en la Parte 15 de la Normativa FCC. Su funcionamiento está sujeto a las dos condiciones
+siguientes: (1) Este equipo no causará interferencias perjudiciales y (2) este equipo tolerará cualquier interferencia recibida,
+incluidas las interferencias que puedan provocar un funcionamiento no deseado.
+ADVERTENCIA: Los cambios o modicaciones en esta unidad no aprobados expresamente por la parte responsable del
+cumplimiento podrían anular la autoridad del usuario para utilizar el equipo.
+NOTA: Este equipo ha sido probado y cumple con los límites establecidos para dispositivos digitales de clase B, según el apartado
+15 de las Normas de la FCC. Dichos límites han sido denidos para proporcionar una protección razonable frente a interferencias
+perjudiciales en una instalación residencial. Este equipo genera, utiliza y puede desprender energía de radiofrecuencia y, si no se
+instala y se utiliza según las instrucciones, puede causar interferencias dañinas a la radiocomunicación.
+
+Sin embargo, no es posible garantizar que el equipo no provoque interferencias en una instalación particular. Si este equipo provoca
+interferencias perjudiciales a la recepción de radio o televisión, lo que puede determinarse encendiéndolo y apagándolo, es
+recomendable intentar corregir dichas interferencias mediante una o varias de las siguientes medidas:
+- Vuelva a orientar o cambie de lugar la antena receptora.
+- Aumente la separación entre el equipo y el receptor.
+- Conecte el equipo en una toma de corriente en un circuito diferente al que el receptor está conectado.
+- Consulte con el distribuidor o con un técnico especialista en radio/televisión para más ayuda.
+
+¿Preguntas, problemas o piezas faltantes? Antes de regresar a la tienda, llama al
+De lunes a viernes, entre 8:00 a.m. y 7:00 p.m. (Hora Estándar del Este),
+y los sábados de 9:00 a.m. a 6:00 p.m. (Hora Estándar del Este).
+Servicio al Cliente de Hampton Bay de lunes a viernes entre
+
+1-855-HD-HAMPTON
+
+HAMPTONBAY.COM
+
+Conserva este manual para referencias futuras.
+dudas, consulta a un electricista calicado.
+comúnmente utilizadas para soportar instalaciones de iluminación no son compatibles con los ventiladores y posiblemente necesites reemplazarlas. Si tienes Desde el techo a la parte inferior de la lámpara Las aspas deben estar a 60.9 cm como mínimo de la pared más cercana.
+soporte aprobados para ventiladores de 35 lb (15.9 kg) o menos, y usa los tornillos de montaje que vienen con la caja eléctrica. La mayoría de las cajas eléctricas Dimensiones del ventilador de techo from nearest wall. ft Blades should be at least 2
+Para reducir el riesgo de incendio, descarga eléctrica o lesiones físicas, sólo instala el ventilador en una caja eléctrica o sistema de ADVERTENCIA: N/A N/A 32.5 cm or Larger ft x 20 ft 20
+25 % QUICKFIT™ INSTALLATION OTHER FINISH AVAILABLE IN STORES be replaced. Consult a qualied electrician if in doubt. N/A N/A 12.8 in ROOM SIZE
+FA S TER COMPARED TO TRADITIONAL CEILING FANS† OR ONLINE AT HOMEDEPOT.COM  used for the support of lighting xtures are not acceptable for fan support and may need to
+or less and use mounting screws provided with the outlet box. Most outlet boxes commonly
+acerca del producto.
+para obtener más información on an outlet box or supporting system marked acceptable for fan support of 35 lbs (15.9 kg) se venden por separado) m Más de 1.42
+ESCANÉAME con The Home Depot App (Sold Separately/ Habitación muy grande
+with The Home Depot App WARNING: To reduce the risk of re, electric shock, or other personal injury, mount fan only bajante de 91.4 cm (Included/incluido) in
+CONCEALED SCREWS AND for more product information. Downrod 36 in Tubo bajante 11.4 cm Cerca del cielo raso Greater than 56
+Inclinado con tubo
+HARDWARE FOR ADDED BEAUTY SCAN ME sobre la base de montaje cerca del cielo raso. Slope with 4.5 in Downrod Close to Ceiling
+El ujo de aire indicado es un promedio ponderado de pies cúbicos por minuto en velocidades alta y baja GREAT ROOM
+AND STYLING HAMPTONBAY.COM on close to ceiling mount. Ceiling to light bottom
+1-855-HD-HAMPTON
+SI NECESITA AYUDA, LLAME AL: Airow shown is a weighted average of high and low cubic feet per minute based CEILING FAN DIMENSIONS ft x 18 ft to 18 ft x 12 ft 12
+6.97 6.97
+FOR ASSISTANCE, CALL:
+[ 177] [ 177]
+ATLANTA, GA 30339 ftc.gov/energy All Estimates Based on Typical Use, Excluding Lights ROOM SIZE
+2455 PACES FERRY ROAD
+HOME DEPOT
+• Energy Use: 34 Watts
+OIL RUBBED BRONZE FINISH DISTRIBUIDO POR: • Your Cost Depends on Rates and Use m a 1.42 m 1.21
+ACCU-ARMTM BLADE QUICKINSTALLTM FAN BLADES DISTRIBUTED BY:
+1006 878 800 HECHO EN CHINA • Based on 12 Cents per kWh and 6.4 Hours Use per Day Habitación grande
+1,428 LOW
+BRACKETS QUICKLY SECURE ALLOW EASY CHANGES TO MADE IN CHINA
+to 56 48
+EBONY WALNUT BLADES (SHOWN) BLADE COMPONENTS BLADE FINISH Recicla Feet per Minute per Watt ) – 84 in Cost Range of Similar Models (19 in in in
+• Airflow Efficiency: 68 Cubic
+3-SPEED, WOBBLE-FREE, Recycle LARGE ROOM
+More Air the Fan Will Move 2,245 MEDIUM
+REVERSIBLE, QUIET MOTOR ACCU-ARMTM BLADE BRACKETS † Average time saved with two or more features • The Higher the Airflow, the $34 $3
+FOR EASY INSTALLATION (slide-on bracket, Accu-Arm™ blade brackets, and QuickInstall™ fan blades).
+Traditional ceiling fans are categorized as not having an advanced installation method. 9 watts Energy Used $10 ft x 10 ft 10
+Product finish and fan shown here for illustration purposes only. Cubic Feet Per Minute 3,055 HIGH  or Smaller
+ROOM SIZE
+3000 K 2293
+Garantía de 1 año para las piezas Cool Warm  m Menos de 1.21
+Light Appearance Yearly Energy Cost Habitación pequeña
+Garantía de 3 años para el kit de luces
+REVERSIBLE BLADE FINISHES 10 years Based on 3 hrs/day Airflow
+Garantía de por vida para el motor Life Estimated  in Less than 48
+EBONY WALNUT JAVA OAK
+1 Year Parts Warranty Cost depends on rates and use (CFM) SMALL ROOM
+3 Year Light Kit Warranty Based on 3 hrs/day, 11¢/kWh  Flujo de aire en pies cúbicos por minuto
+FOR USE WITHOUT THE LIGHT KIT, $1.08 Estimated Yearly Energy Cost
+PLEASE CALL HAMPTON BAY CUSTOMER SERVICE AT Lifetime Motor Warranty Adapta el ventilador al tamaño de tu habitación
+800 lumens Brightness CUBIC FEET PER MINUTE (CFM)
+1-855-HD-HAMPTON TO PURCHASE A SWITCH CAP.
+Per Bulb Lighting Facts AIRFLOW FIT YOUR FAN TO YOUR ROOM SIZE
+
+JAVA OAK BLADES JAVA OAK BLADES JAVA OAK BLADES JAVA OAK BLADES
+(SHOWN) WITH (SHOWN) WITH
+1006 878 798 (SHOWN) WITH FROSTED SHADE 1006 878 798 (SHOWN) WITH
+FROSTED SHADE FROSTED SHADE FROSTED SHADE
+HAWKINS III 1006 878 798 HAWKINS III 1006 878 798
+HAWKINS III
+44 IN LED INDOOR HAWKINS III 44 IN LED INDOOR 44 IN LED INDOOR
+CEILING FAN 44 IN LED INDOOR CEILING FAN CEILING FAN
+[ 574 in] [ 220] 22.6 mm [ 220]
+8.66 [ 574 in] 8.66
+BRUSHED NICKEL FINISH CEILING FAN BRUSHED NICKEL FINISH BRUSHED NICKEL FINISH
+22.6 mm
+44 in W x 12.8 in H (assembled dimensions)
+44 in W x 12.8 in H (assembled dimensions) BRUSHED NICKEL FINISH 44 in W x 12.8 in H (assembled dimensions) QUICKFIT ™ 25 %
+INSTALLATION
+™ 25 % 2 BULBS INCLUDED 44 in W x 12.8 in H (assembled dimensions) INSTALLATION ™ 25 % 2 BULBS INCLUDED COMPARED TO A TRADITIONAL FAN† FASTER
+QUICKFIT 9 W LED BULBS QUICKFIT 9 W LED BULBS BULBS INCLUDED
+INSTALLATION 60 W EQUIVALENT 60 W EQUIVALENT 9 W LED BULBS MOUNTING OPTIONS
+COMPARED TO A TRADITIONAL FAN† FASTER 800 LUMENS PER BULB COMPARED TO A TRADITIONAL FAN† FASTER 800 LUMENS PER BULB 2 60 W EQUIVALENT
+VENTILADOR DE TECHO CON LUZ SCAN M E 800 LUMENS PER BULB FLUSH SCAN ME
+LED PARA INTERIORES, 1.11 M with The Home Depot App with The Home Depot App
+MOUNTING OPTIONS Acabado en níquel cepillado for more product information. MOUNTING OPTIONS for more product information.
+1.11 m AN x 32.5 cm AL
+FLUSH (dimensiones del producto ensamblado) FLUSH REVERSIBLE BLADE FINISH QUIET MOTOR
+REVERSIBLE BLADE FINISH QUIET MOTOR REVERSIBLE BLADE FINISH QUIET MOTOR
+
+6.97 6.97
+[ 177] [ 177]
+
+1.38 19.45 13.86 1.38 19.45 13.86
+[ 35] [ 494] [ 352] [ 35] [ 494] [ 352]
+34.69 mm 34.69 mm
+[ 881 in] [ 881 in]
+
+INCHES
+
+MILLIMETRES 15 25 35 45 55 65 75 85 95
+10 20 30 40 50 60 70 80 90 100
+
+PROGRAM: Q2 MAP IMPORTANT
+PROJECT# 46286 UNIQUE ID# 46286-1 REGION: US YG204D-BN     B/F
+Color control bars are required to be printed during
+mass production in order to provide veriﬁcation
+SKU# 1006878798 FLEX# 414232 DEPT# 27L of print quality, consistency and color accuracy
+VENDOR > AIR COOL INDUSTRIAL during the post-production inspection.
+18/JAN/2022 MARKET > US
+R04 A BRAND > HAMPTON BAY (HB) ART SIZE > 100% DIMS > AS SHOWN
+SUB CLASS > CEILING FANS
+PRODUCT > 44 IN LED CEILING FAN WITH LIGHT - BRUSHED NICKEL
+PACKAGE > FULL LITHO BOX
+MODEL # > YG204D-BN PHASE 1 PHASE 2 1 PCS/SET
+R1
+CYAN MAGENTA YELLOW BLACK PMS 432 C PMS 5513 C A/B MAC    09.28.21 KLB 09.29.21
+R2 NAME  00.00.21 AI  10.26.21 Hawkins III
+R3 NAME  00.00.21 JPB  11.29.21 44 in LED
+R4 NAME  00.00.21 IK   01.18.22
+R5 NAME  00.00.21 NAME  00.00.21 Indoor
+R6 NAME  00.00.21 NAME  00.00.21 Ceiling Fan
+R7 NAME  00.00.21 NAME  00.00.21
+THIS COLOR INDICATES DIE-CUT AND POSITIONAL ELEMENTS, DO NOT PRINT!  • R8 NAME  00.00.21 NAME  00.00.21
+R9 NAME  00.00.21 NAME  00.00.21 YG204D-BN
+THIS PACKAGING ART MUST NOT BE ALTERED!
+Any alterations must be expressly approved by the Packaging Department of The Home Depot. Penalties include but are not limited to loss of printing privileges for production packaging.
+If revisions are made without the express permission of the Packaging Dept, The Home Depot may require that packaging production be completed by a THD approved
+packaging printer.  Repeated violations could result in revocation of supplier status.
+62*62*116mm
+60W Replacement 9W
+800Lumens
+11000Hours Life
+120V
+9W Reemplazo de 60W
+800 lúmenes
+11000 Horas de vida
+
+Adecuado Para Usarse En
+Luminarios Cerrados.
+
+Rated Use for Enclosed Fixtures. Lighting Facts/Datos de
+This device complies with Part 15 of the FCC Rules. Operation is subject to Iluminación         Per Bulb/Por Bombilla
+the following two conditions: 60W Replacement 9W
+(1) this device may not cause harmful interference, and
+(2) this device must accept any interference received, including interference Brightness/Brillo 800 lumens/lúmenes
+that may cause undesired operation. 800Lumens Estimated Yearly Energy Cost/ $1.08
+Este dispositivo cumple con la sección 15 de las reglas de la FCC.
+El funcionamiento está sujeto a las siguientes dos condiciones: 11000Hours Life
+(1) este dispositivo no debe causar interferencia perjudicial y Costo Estimado Anual de Energía
+(2) debe aceptar cualquier interferencia recibida, incluida la interferencia
+Based on 3 hrs/day, 11¢/kWh. Cost depends
+que pudiese causar un funcionamiento no deseado. 120V   on rates and use. / Basado en 3 hrs/día,
+ADVERTENCIA: Este equipo ha sido sometido a prueba y se halló que cumple
+con los límites establecidos para la clase B de dispositivos digitales,
+conforme a la Parte 15 de las Normas de FCC. Estos límites se establecen 9W Reemplazo de 60W     11¢/kWh. Costo depende de la tarifa y el uso.
+para brindar protección razonable contra interferencia dañina en una
+instalación residencial. Este equipo genera, utiliza y puede irradiar energía de Life/Duración 10 years/años
+frecuencias de radio y, si no se instala conforme a las instrucciones, puede 800 lúmenes    Based on 3 hrs/day / Basado en 3 hrs/dia
+provocar interferencia dañina a las comunicaciones de radio. A pesar de esto,
+no existe garantía de que la interferencia no se produzca en una instalación
+en particular. Si este equipo produce interferencia dañina a la recepción de 11000 Horas de vida Light Appearance/Apariencia de Iluminación
+radio o televisión, lo que puede determinarse encendiendo y apagando el
+equipo, se insta al usuario a intentar corregir la interferencia mediante uno   Warm/Cálida             Cool/Fría
+de los siguientes métodos: Cambie la orientación o ubicación de la antena
+receptora; Aumente la separación entre el equipo y el receptor; Conecte el
+equipo en un enchufe que esté en un circuito diferente al cual está
+conectado el receptor; Consulte con el representante o con un técnico 3000K
+experimentado en radio y televisión para solicitar asistencia. Los cambios o
+modificaciones no aprobados expresamente por la parte responsable del Energy Used/Uso de Energía 9 watts/vatios
+cumplimiento, podrían anular la autoridad del usuario para operar el equipo.
+
+Changes No usar con atenuadores. 800 1.08
+or modifications to this unit not expressly approved by the party responsible Not for use with light dimmers.
+for compliance could void the user’s authority to operate the equipment.
+
+STORE DISPLAY UNIT ONLY
+NOT FOR SALE • HOLD FOR M.E.T.
+STORE DISPLAY UNIT ONLY
+NOT FOR SALE • HOLD FOR M.E.T.
+STORE DISPLAY UNIT ONLY
+NOT FOR SALE • HOLD FOR M.E.T.
+STORE DISPLAY UNIT ONLY
+NOT FOR SALE • HOLD FOR M.E.T.
+
+27L 1007494276
+HAWKINS III LED 44" BRUSHED NICKEL CEILING FAN
+PO#
+CHINA
+1 PACK
+CASE WT: 13.86 LBS / 6.30 KGS
+27L 1007494276
+HAWKINS III LED 44" BRUSHED NICKEL CEILING FAN
+PO#
+CHINA
+1 PACK
+CASE WT: 13.86 LBS / 6.30 KGS
+27L 1007494276
+HAWKINS III LED 44" BRUSHED NICKEL CEILING FAN
+PO#
+CHINA
+1 PACK
+CASE WT: 13.86 LBS / 6.30 KGS
+27L 1007494276
+HAWKINS III LED 44" BRUSHED NICKEL CEILING FAN
+PO#
+CHINA
+1 PACK
+CASE WT: 13.86 LBS / 6.30 KGS
+
+DISPLAY ONLY
+NOT FOR SALE
+DISPLAY ONLY
+NOT FOR SALE
+DISPLAY ONLY
+NOT FOR SALE
+DISPLAY ONLY
+NOT FOR SALE

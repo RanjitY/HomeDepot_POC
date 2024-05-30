@@ -1,0 +1,55 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "MODEL1&Sequence_14",
+        "PdfText&Sequence_17",
+        "SKU&Sequence_10",
+        "SKU&Sequence_12",
+        "ProductDescription&Sequence_12",
+        "SKU&Sequence_14",
+        "ProductDescription&Sequence_14",
+        "MODEL&Sequence_14"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "pdf test.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "PdfData&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "test.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "MODEL&Sequence_8",
+        "SKU&Sequence_8",
+        "ProductDescription&Sequence_8",
+        "ProductDescription&Sequence_2",
+        "SKU&Sequence_3",
+        "SKU&Sequence_2",
+        "PdfText&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
